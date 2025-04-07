@@ -15,3 +15,8 @@ conda activate happy-rag
 pip install -r requirements.txt
 ```
 
+# 2. RAG 系统整体架构
+
+![](docs/ref/rag.png)
+
+![](docs/ref/rag_core_components.png)
