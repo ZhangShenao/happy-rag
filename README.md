@@ -15,6 +15,14 @@ conda activate happy-rag
 pip install -r requirements.txt
 ```
 
+## 生成当前项目依赖文件
+
+```shell
+ pipreqs .
+```
+
+
+
 # 2. RAG 系统整体架构
 
 ![](docs/ref/rag.png)

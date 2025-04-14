@@ -23,7 +23,7 @@ embeddings = HuggingFaceEmbedding(
 # 创建Deepseek
 # 这里使用阿里通义百炼的DeepSeek-R1模型
 llm = DeepSeek(
-    api_base="https://dashscope.aliyuncs.com/compatible-mode/v1",
+    api_base=os.getenv("DASHSCOPE_API_BASE"),
     model="deepseek-r1",  # 使用最新的推理模型R1
     api_key=os.getenv("DASHSCOPE_API_KEY"),  # 从环境变量获取API key
 )
