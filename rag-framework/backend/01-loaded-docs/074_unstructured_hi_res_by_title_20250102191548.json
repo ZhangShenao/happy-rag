@@ -1,0 +1,195 @@
+{
+  "filename": "074.pdf",
+  "total_chunks": 9,
+  "total_pages": 1,
+  "loading_method": "unstructured",
+  "loading_strategy": "hi_res",
+  "chunking_strategy": "by_title",
+  "chunking_method": "loaded",
+  "timestamp": "2025-01-02T19:15:48.067187",
+  "chunks": [
+    {
+      "content": "2023 Boeing Sustainability Report\n\nContents\n\nIntroduction\n\nApproach & Governance\n\nPeople\n\nProducts & Services\n\nOperations\n\nCommunities\n\nReporting\n\nKey ESG Data\n\nGRI Index\n\nSASB Index\n\nTCFD Index\n\nU.N. Sustainable Development Goals\n\nAwards and Recognition\n\nSelect Memberships and Partnerships\n\nForward-Looking Statements\n\n74\n\nKey ESG Data\n\nEnvironmental Data",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 44,
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-01-02T19:15:41",
+        "orig_elements": "[<unstructured.documents.elements.NarrativeText object at 0x7fe96771d570>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ce81f0>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ce8340>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea2320>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea0190>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea3610>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea3a00>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea3af0>, <unstructured.documents.elements.Title object at 0x7fe966ce8d00>, <unstructured.documents.elements.Title object at 0x7fe966ce8be0>, <unstructured.documents.elements.Title object at 0x7fe966ce8d60>, <unstructured.documents.elements.Title object at 0x7fe966ce8610>, <unstructured.documents.elements.Title object at 0x7fe966ce8e80>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea28f0>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea2b60>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea2c80>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ea2d10>, <unstructured.documents.elements.Footer object at 0x7fe966ea0760>, <unstructured.documents.elements.Title object at 0x7fe966ce8280>, <unstructured.documents.elements.NarrativeText object at 0x7fe966ce80a0>]",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "CompositeElement",
+        "id": "19fb010e3c2c43e958bf1057ad1d9ef8",
+        "category": "CompositeElement"
+      }
+    },
+    {
+      "content": "2022 2021 2020 Energy1 Megawatt hours Terajoules Megawatt hours Terajoules Megawatt hours Terajoules Natural gas 1,928,000 6,941 1,712,000 6,163 1,686,000 6,070 Jet kerosene 861,000 3,100 804,000 2,894 544,000 1,958 Fuel oil #2 127,000 457 153,000 551 149,000 536 Motor gasoline 24,000 86 21,000 76 21,000 76 Propane 11,000 40 10,000 36 12,000 43 Liquefied petroleum gas 2,000 7 1,000 4 – – Total nonrenewable fuels 2,953,000 10,631 2,701,000 9,724 2,412,000 8,683 Sustainable aviation fuel 9,000 32",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 76,
+        "last_modified": "2025-01-02T19:15:41",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "orig_elements": "[<unstructured.documents.elements.Table object at 0x7fe96601c4c0>]",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "TableChunk",
+        "id": "ee15c0e07ee6b181384ef78da21e8835",
+        "category": "Table"
+      }
+    },
+    {
+      "content": "4,000 14 2,000 7 Total renewable fuels 9,000 32 4,000 14 2,000 7 Purchased nonrenewable electricity 1,350,000 4,860 1,482,000 5,335 1,686,000 6,070 Purchased renewable electricity2 720,000 2,592 574,000 2,066 392,000 1,411 Total purchased electricity 2,070,000 7,452 2,056,000 7,402 2,078,000 7,481 Total energy use 5,033,000 18,119 4,761,000 17,410 4,492,000 16,171",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 49,
+        "last_modified": "2025-01-02T19:15:41",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "orig_elements": "[<unstructured.documents.elements.Table object at 0x7fe96601c4c0>]",
+        "is_continuation": true,
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "TableChunk",
+        "id": "888bcf40f0ae7ac4ffdd052d6ff2ec4b",
+        "category": "Table"
+      }
+    },
+    {
+      "content": "1. Data represents 100% of the company. 2. Renewable electricity data excludes any renewable energy that is part of the grid by default, in alignment with SASB and other frameworks. Notably, Boeing operates in a number of grids that rely significantly on renewable sources. • Boeing did not sell any electricity, heating or cooling energy.",
+      "metadata": {
+        "chunk_id": 4,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 55,
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-01-02T19:15:41",
+        "orig_elements": "[<unstructured.documents.elements.ListItem object at 0x7fe966ce87f0>]",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "CompositeElement",
+        "id": "e9d682962a20cfac81a74663f89e12e1",
+        "category": "CompositeElement"
+      }
+    },
+    {
+      "content": "Emissions1 Tons CO2e Metric tons CO2e Tons CO2e Metric tons CO2e Tons CO2e Metric tons CO2e Scope 1 GHG2,3 708,000 642,000 675,000 612,000 611,000 554,000 Scope 2 GHG — location-based2,3 859,000 779,000 830,000 753,000 840,000 762,000 Scope 2 GHG — market-based2,3 442,000 401,000 493,000 447,000 580,000 526,000 Scope 3 GHG — business travel 205,000 186,000 97,000 88,000 101,000 92,000 Scope 3 GHG — use of sold products (Commercial Airplanes)3,6 400,000,000 363,000,000 306,000,000 278,000,000",
+      "metadata": {
+        "chunk_id": 5,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 73,
+        "last_modified": "2025-01-02T19:15:41",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "orig_elements": "[<unstructured.documents.elements.Table object at 0x7fe96601c940>]",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "TableChunk",
+        "id": "236b460cebde1aa9b8e581d7a2f1dd9b",
+        "category": "Table"
+      }
+    },
+    {
+      "content": "246,000,000 223,000,000 Scope 3 GHG — use of sold products (Defense, Space & Security)3,6 24,000,000 22,000,000 24,000,000 22,000,000 22,000,000 20,000,000 Total calculated GHG excluding sold products 1,355,000 1,229,000 1,264,000 1,147,000 1,292,000 1,172,000 Core metrics sites GHG — location-based4 724,000 657,000 702,000 637,000 713,000 647,000 Core metrics sites GHG — market-based4 323,000 293,000 376,000 341,000 452,000 410,000 GHG Intensity5 $0.00002 $0.00002 $0.00002",
+      "metadata": {
+        "chunk_id": 6,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 61,
+        "last_modified": "2025-01-02T19:15:41",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "orig_elements": "[<unstructured.documents.elements.Table object at 0x7fe96601c940>]",
+        "is_continuation": true,
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "TableChunk",
+        "id": "f8c74fce774059d3b21a4e5b4bcb0557",
+        "category": "Table"
+      }
+    },
+    {
+      "content": "1. Emissions (Enterprise Scope 1, Scope 2, and Scope 3 Categories 6 and 11) data is verified by an accredited independent third party to the level of limited assurance, see assurance statements. 2. Scope 1 and Scope 2 data represents 100% of the company. 3. For Scopes 1, 2 and 3, we calculate emissions from CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3 for this data set. 4. Core metrics sites data represents emissions of CO2, CH4 and N2O where we track a subset of emissions from natural gas combustion",
+      "metadata": {
+        "chunk_id": 7,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 90,
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-01-02T19:15:41",
+        "orig_elements": "[<unstructured.documents.elements.ListItem object at 0x7fe966ce8790>]",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "CompositeElement",
+        "id": "897a58988d2fbfa413f54903312713cc",
+        "category": "CompositeElement"
+      }
+    },
+    {
+      "content": "and purchased electricity associated with sites that represent the majority (70%) of Boeing operations. 5. GHG intensity includes Scope 1 and Scope 2 (market-based) GHG (CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3). 6. Use of sold products emissions are based on estimated lifetime emissions of Boeing Commercial Airplanes and Boeing Defense Services product deliveries in 2022, including direct emissions from combustion of fuel (335M tonnes) and indirect emissions",
+      "metadata": {
+        "chunk_id": 8,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 69,
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-01-02T19:15:41",
+        "orig_elements": "[<unstructured.documents.elements.ListItem object at 0x7fe966ce8790>]",
+        "is_continuation": true,
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "CompositeElement",
+        "id": "f4f5c9327232f3b8de2c2edf333567fe",
+        "category": "CompositeElement"
+      }
+    },
+    {
+      "content": "from production of fuel (50M tonnes).",
+      "metadata": {
+        "chunk_id": 9,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6,
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-01-02T19:15:41",
+        "orig_elements": "[<unstructured.documents.elements.NarrativeText object at 0x7fe966ea2140>]",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "element_type": "CompositeElement",
+        "id": "e3ae884e4b7a0c7a6d06683f774350fd",
+        "category": "CompositeElement"
+      }
+    }
+  ]
+}

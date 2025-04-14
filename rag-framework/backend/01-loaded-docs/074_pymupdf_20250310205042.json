@@ -1,0 +1,21 @@
+{
+  "filename": "074.pdf",
+  "total_chunks": 1,
+  "total_pages": 1,
+  "loading_method": "pymupdf",
+  "loading_strategy": null,
+  "chunking_strategy": null,
+  "chunking_method": "loaded",
+  "timestamp": "2025-03-10T20:50:42.684029",
+  "chunks": [
+    {
+      "content": "Key ESG Data\n2022\n2021\n2020\nEnergy1\nMegawatt hours\nTerajoules\nMegawatt hours\nTerajoules\nMegawatt hours\nTerajoules\nNatural gas\n1,928,000\n6,941\n1,712,000\n6,163\n1,686,000\n6,070\nJet kerosene\n861,000 \n3,100\n804,000\n2,894\n544,000\n1,958\nFuel oil #2\n127,000\n457\n153,000\n551\n149,000\n536\nMotor gasoline\n24,000\n86\n21,000\n76\n21,000\n76\nPropane\n11,000\n40\n10,000\n36\n12,000\n43\nLiquefied petroleum gas\n2,000\n7\n1,000\n4\n–\n–\nTotal nonrenewable fuels\n2,953,000\n10,631\n2,701,000\n9,724\n2,412,000\n8,683\nSustainable aviation fuel\n9,000\n32\n4,000\n14\n2,000\n7\nTotal renewable fuels\n9,000\n32\n4,000\n14\n2,000\n7\nPurchased nonrenewable electricity\n1,350,000\n4,860\n1,482,000\n5,335\n1,686,000\n6,070\nPurchased renewable electricity2\n720,000\n2,592\n574,000\n2,066\n392,000\n1,411\nTotal purchased electricity\n2,070,000\n7,452\n2,056,000\n7,402\n2,078,000\n7,481\nTotal energy use\n5,033,000\n18,119\n4,761,000\n17,410\n4,492,000\n16,171\nEnvironmental Data\nEmissions1\nTons CO2e\nMetric tons CO2e\nTons CO2e\nMetric tons CO2e\nTons CO2e\nMetric tons CO2e\nScope 1 GHG2,3\n708,000\n642,000\n675,000 \n612,000\n611,000 \n554,000 \nScope 2 GHG — location-based2,3\n859,000\n779,000\n830,000\n753,000\n840,000\n762,000\nScope 2 GHG — market-based2,3\n442,000\n401,000\n493,000\n447,000\n580,000\n526,000\nScope 3 GHG — business travel\n205,000\n186,000\n97,000\n88,000\n101,000\n92,000\nScope 3 GHG — use of sold products (Commercial Airplanes)3,6\n400,000,000\n363,000,000\n306,000,000\n278,000,000\n246,000,000\n223,000,000\nScope 3 GHG — use of sold products (Defense, Space & Security)3,6\n24,000,000\n22,000,000\n24,000,000\n22,000,000\n22,000,000\n20,000,000\nTotal calculated GHG excluding sold products\n1,355,000\n1,229,000\n1,264,000 \n1,147,000 \n1,292,000 \n1,172,000\nCore metrics sites GHG — location-based4\n724,000\n657,000\n702,000\n637,000\n713,000\n647,000\nCore metrics sites GHG — market-based4\n323,000\n293,000\n376,000\n341,000\n452,000 \n410,000\nGHG Intensity5\n$0.00002\n$0.00002\n$0.00002\n1. Data represents 100% of the company.\n2. Renewable electricity data excludes any renewable energy that is part of the grid by default, in alignment with SASB and other frameworks. Notably, Boeing operates in a number of grids that rely significantly on renewable sources. \n • Boeing did not sell any electricity, heating or cooling energy.\n1.  Emissions (Enterprise Scope 1, Scope 2, and Scope 3 Categories 6 and 11) data is verified by an accredited independent third party to the level of limited assurance, see assurance statements. \n2. Scope 1 and Scope 2 data represents 100% of the company.\n3. For Scopes 1, 2 and 3, we calculate emissions from CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3 for this data set.\n4. Core metrics sites data represents emissions of CO2, CH4 and N2O where we track a subset of emissions from natural gas combustion and purchased electricity associated with sites that represent the majority (70%) of Boeing operations.\n5. GHG intensity includes Scope 1 and Scope 2 (market-based) GHG (CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3).\n6.  Use of sold products emissions are based on estimated lifetime emissions of Boeing Commercial Airplanes and Boeing Defense Services product deliveries in 2022, including direct emissions from combustion of fuel (335M tonnes) and indirect emissions \nfrom production of fuel (50M tonnes).\n2023 Boeing \nSustainability Report\nContents\nIntroduction\nApproach & Governance\nPeople\nProducts & Services\nOperations\nCommunities\nReporting\nKey ESG Data\nGRI Index\nSASB Index\nTCFD Index\nU.N. Sustainable  \nDevelopment Goals\nAwards and Recognition\nSelect Memberships \nand Partnerships\nForward-Looking  \nStatements\n74",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 523
+      }
+    }
+  ]
+}
