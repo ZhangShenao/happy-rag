@@ -1,0 +1,723 @@
+{
+  "filename": "极客时间训练营 - RAG实战 - 0325.pdf",
+  "total_chunks": 79,
+  "total_pages": 79,
+  "loading_method": "pypdf",
+  "loading_strategy": null,
+  "chunking_strategy": null,
+  "chunking_method": "loaded",
+  "timestamp": "2025-04-14T14:18:32.538552",
+  "chunks": [
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n黄佳\n《动手做AI Agent》《GPT图解》作者\nRAG组件详解 兼谈 LLM应用开发前沿进展\n—— Manus / MCP / CUA / Computer Use ……",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 18
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n思考\n1. RAG系统中有哪些环节值得优化\n2. 你如何在日常项目实践中运用RAG",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 7
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n黄佳\nAI研究员 《动手做AI Agent》《GPT图解》作者\nAI研究员、技术作家，主攻方向为大语言模型的开发和应用实践 、AI in\nFinTech、AI in MedTech、持续学习，代表作主要有《大模型应用开发\n动手做AI Agent》《GPT图解》《零基础学机器学习》《数据分析咖哥十\n话》《SAP程序设计》 《LangChain实战课》等，曾在埃森哲新加坡公司\n担任多年SAP技术顾问，负责政府和企业薪酬系统的实施和运维。",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 17
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n目录\n1. RAG系统十大组件之优化？\n2. 实现企业级文档合规检索 (RAG?) 系统\n3. RAG的前沿进展（Graph RAG）\n4. LLM Agent前沿进展（ Manus / MCP / \nCUA / Computer Use …… ）\n干货呈现",
+      "metadata": {
+        "chunk_id": 4,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 26
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n1. RAG系统十大组件之优化",
+      "metadata": {
+        "chunk_id": 5,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 6,
+        "page_number": 6,
+        "page_range": "6",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 7,
+        "page_number": 7,
+        "page_range": "7",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 8,
+        "page_number": 8,
+        "page_range": "8",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 9,
+        "page_number": 9,
+        "page_range": "9",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 10,
+        "page_number": 10,
+        "page_range": "10",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 11,
+        "page_number": 11,
+        "page_range": "11",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 12,
+        "page_number": 12,
+        "page_range": "12",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 13,
+        "page_number": 13,
+        "page_range": "13",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 14,
+        "page_number": 14,
+        "page_range": "14",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 15,
+        "page_number": 15,
+        "page_range": "15",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 16,
+        "page_number": 16,
+        "page_range": "16",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCopyright \n黄佳@极客时间\nRAG训练营",
+      "metadata": {
+        "chunk_id": 17,
+        "page_number": 17,
+        "page_range": "17",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n最好的致敬方式就是去学习它\n最好的学习方式就是去使用它！",
+      "metadata": {
+        "chunk_id": 18,
+        "page_number": 18,
+        "page_range": "18",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n使用DeepSeek做RAG",
+      "metadata": {
+        "chunk_id": 19,
+        "page_number": 19,
+        "page_range": "19",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n使用DeepSeek做RAG",
+      "metadata": {
+        "chunk_id": 20,
+        "page_number": 20,
+        "page_range": "20",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n使用DeepSeek做RAG",
+      "metadata": {
+        "chunk_id": 21,
+        "page_number": 21,
+        "page_range": "21",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n2. 实现企业级文档合规检索 (RAG?) 系统",
+      "metadata": {
+        "chunk_id": 22,
+        "page_number": 22,
+        "page_range": "22",
+        "word_count": 6
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n不可回收废品相关\n处理方面合规条款",
+      "metadata": {
+        "chunk_id": 23,
+        "page_number": 23,
+        "page_range": "23",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n企业文档合规 检 系统\n文档 表\n             o  \n         p  \n        o  \n 应 合     o  \n合规 检   \n文档               o  \n合规要   \n    的         \n 合           \n         \n 合      规  \n         \n  合规   分合规",
+      "metadata": {
+        "chunk_id": 24,
+        "page_number": 24,
+        "page_range": "24",
+        "word_count": 24
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n项目背景：可持续报告合规 分析\n可持续发展 告（Sustainability Report） 是企业或组织自愿发布的一种非   告，主 披\n露企业在环境、社  任和治理（ESG）方面的绩效，并展现企业如何管理可持续发展风险和机\n遇。\n主 内容\n1.公司愿景与战略\n1.可持续发展的愿景、目标和企业的可持续发展承诺。\n2.环境（E）\n1.碳排放（Scope 1, Scope 2, Scope 3）\n2.能源消耗、用水情况、废弃物管理\n3.绿色产品和 应链管理\n3.社 （S）\n1.  薪酬、健康和  \n2.多样 和 容 （D&I）\n3.社区发展、客户  、    \n4.治理（G）\n1.反腐败  、 业道德\n2.董事 治理、股东权利\n3. 应链合规",
+      "metadata": {
+        "chunk_id": 25,
+        "page_number": 25,
+        "page_range": "25",
+        "word_count": 45
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nGRI（全球报告倡议，Global Reporting Initiative）\nGRI（Global Reporting Initiative） 是 球 广泛使用的可持续发展 告标 框架，提 了一\n套 球公认的指南，用于衡量和披露企业或组织在环境、社 和治理（ESG）方面的绩效。它的\n核心目标是让企业、 府和非营利组织能够透 地披露其对可持续发展的影响，并为投资者、监\n管机构、客户和其他利益相关者提 可比较的  。\nGRI 标 的特点\n1. 球适用：被广泛用于企业、 府和非营利组织的ESG 告。\n2.可比较 强：不 公司采用相 的标 ，使利益相关方可以轻松比较企业的可持续发展绩效。\n3. 块化结构：\n1.通用标 （Universal Standards）：GRI 1（基础）、GRI 2（通用披露）、GRI 3（重大 评估）。\n2.专题标 （Topic-Specific Standards）：涉及环境（GRI 300）、社 （GRI 400）和治理（GRI 200）\n的不 具体指标。",
+      "metadata": {
+        "chunk_id": 26,
+        "page_number": 26,
+        "page_range": "26",
+        "word_count": 53
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n企业应使用 GRI 编写可持续发展报告",
+      "metadata": {
+        "chunk_id": 27,
+        "page_number": 27,
+        "page_range": "27",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n挑战：企业发布的\nSustainability Report\n究竟是否符合GRI标准",
+      "metadata": {
+        "chunk_id": 28,
+        "page_number": 28,
+        "page_range": "28",
+        "word_count": 6
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nNVIDIA Sustainability Report",
+      "metadata": {
+        "chunk_id": 29,
+        "page_number": 29,
+        "page_range": "29",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nGRI披露项细则",
+      "metadata": {
+        "chunk_id": 30,
+        "page_number": 30,
+        "page_range": "30",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nChunks\nSimilarity \nSearch\nMapping \nScore\n系统设计流程",
+      "metadata": {
+        "chunk_id": 31,
+        "page_number": 31,
+        "page_range": "31",
+        "word_count": 8
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n3个重点\n1. 整体框架的设 和实现\n2. 评估  集的构建\n3. 评估规 的设",
+      "metadata": {
+        "chunk_id": 32,
+        "page_number": 32,
+        "page_range": "32",
+        "word_count": 12
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n整 框架复用\nhttps://github.com/huangjia2019/rag-project03-audit",
+      "metadata": {
+        "chunk_id": 33,
+        "page_number": 33,
+        "page_range": "33",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n评估数据集的构建",
+      "metadata": {
+        "chunk_id": 34,
+        "page_number": 34,
+        "page_range": "34",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n评估规则的设计\n知识库",
+      "metadata": {
+        "chunk_id": 35,
+        "page_number": 35,
+        "page_range": "35",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n3. RAG的前沿进展",
+      "metadata": {
+        "chunk_id": 36,
+        "page_number": 36,
+        "page_range": "36",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nGraphRAG\n 合 RAG 框架和 知识图谱\n弥补传统 RAG 方法的局限",
+      "metadata": {
+        "chunk_id": 37,
+        "page_number": 37,
+        "page_range": "37",
+        "word_count": 10
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nGraph RAG",
+      "metadata": {
+        "chunk_id": 38,
+        "page_number": 38,
+        "page_range": "38",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nGraphRAG\n• 知识图谱构建：利用 LLM 从输入语料中提取实\n 、关系和关键论断，构建 构化的知识图谱。\n• 社区层次分析：对知识图谱进行社区检测和层次聚\n类，生成各社区的摘要，帮助全面理解数据集。\n•  询增强：在回答用户问题时， 合社区摘要和图\n谱信息，提供更准确和上下文相关的回答。",
+      "metadata": {
+        "chunk_id": 39,
+        "page_number": 39,
+        "page_range": "39",
+        "word_count": 16
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n社区和社区发现\n在图或网络中，一组节点之间的\n连接明显比与其他节点之间的连\n接更加紧密的子群 \n从复杂网络中自动识别\n和提取社区 构的过程",
+      "metadata": {
+        "chunk_id": 40,
+        "page_number": 40,
+        "page_range": "40",
+        "word_count": 9
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nGraphRAG 核心组件\n组件 说明 示例技术\n知识图谱存储 组织和存储实体及关系 Neo4j, TigerGraph, \nArangoDB\n向量数据库 存储文档的嵌入 示 FAISS, Milvus, Pinecone\n检索引擎 结合知识图谱和向量索引进行\n  检索\nLangChain, GraphQL, \nCypher, Gremlin\n大模型（LLM） 生成答案 GPT-4, Llama3, DeepSeek\n推理与增强 结合知识图谱进行推理 OpenAI Function Calling, \nLangGraph\n事实验证 通过图 询验证生成内容 LLM Validator, Neo4j \nReasoning",
+      "metadata": {
+        "chunk_id": 41,
+        "page_number": 41,
+        "page_range": "41",
+        "word_count": 43
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nWhy LazyGraphRAG？\n传统的向量RAG（Vector RAG）善于处理局部（local） 询，如特 \n的“人物、事件、时间、地点”，但无法 效处理涉及整个  集 局\n（global） 问题，比如：“  中的主 主题是什么？”\n而微软此前开发的GraphRAG技术，虽然擅长处理 局问题，但其构建\n索引的成本非常高，因其依赖LLM（大语言 型）进行预先的  摘 \n和索引构建，往往成本高昂，限制了其广泛应用。\nLazyGraphRAG提出了一种 的方法，它避 了GraphRAG高成本的预\n摘 步骤，转而将这些 算推迟到实际 询的时刻执行。",
+      "metadata": {
+        "chunk_id": 42,
+        "page_number": 42,
+        "page_range": "42",
+        "word_count": 28
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n步骤 GraphRAG（传统） LazyGraphRAG（延迟LLM）\n索引构建方 使用LLM提取实体与关系、进\n行摘 、优化图结构\n仅使用NLP 词短语提取概念\n和共现关系，无需LLM摘 \n索引摘 使用LLM生成  社区的摘 完 不需 LLM，推迟到 询\n时再进行\nLazyGraphRAG是一种融合向量RAG（最佳优先搜索）\n和GraphRAG（广度优先搜索）优势的混合搜索策略\n构建索引阶段\n步骤 GraphRAG（传统） LazyGraphRAG（延迟LLM）\n 询优化 不优化原始 询 使用LLM拆分子 询，扩展并\n重组 询\n 询匹配 对  社区摘 进行广度搜索\n（breadth-first）\n结合向量嵌入和社区  ，采\n用混合的 佳优先和广度优先\n（迭代加深） 略\n答案映射 并行用LLM直接对社区摘 生\n成答案\n构建相关子图，抽取和聚合 \n （claims），再用LLM生成\n聚焦的答案\n答案整合 使用LLM整合答案 使用LLM整合映射后的  ，\n形成 终答案\n 询执行阶段",
+      "metadata": {
+        "chunk_id": 43,
+        "page_number": 43,
+        "page_range": "43",
+        "word_count": 58
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n 能表现与实验  \n微软研究使用了5590篇美联社 闻文章进行实验，采用了100个问题（局部50个， 局50个）进行 能\n评估。\n对比的对象 括：\n•传统Vector RAG（语义搜索）\n•GraphRAG（Local Search, Global Search, DRIFT Search）\n•RAPTOR（分层聚类的RAG方法）\n实验结果非常出色：\n•索引成本极低：LazyGraphRAG构建索引的成本与向量RAG一致，仅为GraphRAG索引成本的0.1%。\n• 询成本极低且质量出色：\n• 在相 成本下，LazyGraphRAG在局部问题的 现显著超越  对比方法， 括长上下文向量RAG、\nGraphRAG DRIFT和Local Search。\n• 在 局问题方面，LazyGraphRAG能以低于GraphRAG Global Search 700倍以上的成本提 相近的质量。\n• 当增加适当的“相关 测试预算”时（如预算从100提升到1500），LazyGraphRAG的 现持续提升。",
+      "metadata": {
+        "chunk_id": 44,
+        "page_number": 44,
+        "page_range": "44",
+        "word_count": 43
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n介绍一个GraphDB用例：SNOMED CT DB\nhttps://www.snomed.org/what-is-snomed-ct",
+      "metadata": {
+        "chunk_id": 45,
+        "page_number": 45,
+        "page_range": "45",
+        "word_count": 6
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nSNOMED CT 术语 构\n组件\n    关系\n 种语言中 一个\n   被标 为\n    \n 个概念   \n一个   A关系\n 全限   \n     \n   \n可能  任  量的\n 义词被标 为\n 可接 的 \n 种语言中 一个\n 义词被标 为\n    \nS       T\n标识符\n 个组件  一个\n 一标识 \nIS A 关系\n  关系\n 个概念可以  \n需   任  量\n的  关系\n73211009\n糖尿病\n糖尿病（疾病）\n糖尿病 IS A 代谢 疾病",
+      "metadata": {
+        "chunk_id": 46,
+        "page_number": 46,
+        "page_range": "46",
+        "word_count": 51
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nhttps://termbrowser.nhs.uk/?perspective=full&conceptId1=267036007",
+      "metadata": {
+        "chunk_id": 47,
+        "page_number": 47,
+        "page_range": "47",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n  （Concept）例子\nSNOMED CT 标识符示例：\n• 22298006： 示\"心肌梗死\"这一概念\n• 73211009： 示\"糖尿病\"这一概念\n• 39156-5： 示\"体温\"这一概念\n 个概念  一个 一的 字标识 ，不论\n使用何种语言 达，这个概念的核心 义 \n不变。",
+      "metadata": {
+        "chunk_id": 48,
+        "page_number": 48,
+        "page_range": "48",
+        "word_count": 24
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n  （Description）例子\n 全限   (FSN)示例：\n• 22298006 |心肌梗死(疾病)|\n• 73211009 |糖尿病(疾病)|\n• 386661006 |发热(临床发现)|\nFSN  了概念的 称和语义标 （括号内的内容），确 \n概念的 义完  确。\n   示例：\n1. 心肌梗死（22298006）的 义词：\n1.    义词：心肌梗死\n2. 可接 的 义词：心梗、急 心肌梗死、冠脉堵塞\n2. 糖尿病（73211009）的 义词：\n1.    义词：糖尿病\n2. 可接 的 义词：高血糖症、血糖异常",
+      "metadata": {
+        "chunk_id": 49,
+        "page_number": 49,
+        "page_range": "49",
+        "word_count": 41
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n关系（Relationship）例子\nIS A关系示例：\n• 心肌梗死 IS A 心脏疾病\n• 2型糖尿病 IS A 糖尿病\n• 阿司匹林 IS A 非甾体抗炎药\n  关系示例：\n1.肺炎的  关系：\n1. 发病部位：肺组织\n2. 病因：肺炎链球菌（细菌 肺炎的情况）\n3. 临床 现：发热、咳嗽、呼吸困难\n2.阿司匹林的  关系：\n1. 活 成分：乙酰水杨酸\n2. 药理作用：抗血小 聚集\n3. 适应症：预防心肌梗死、缓解疼痛",
+      "metadata": {
+        "chunk_id": 50,
+        "page_number": 50,
+        "page_range": "50",
+        "word_count": 41
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n示例 1： 找某  的上位和下位  \nMATCH (c:ObjectConcept {id: '267036007'})\nOPTIONAL MATCH (c)-[:IS_A]->(parent:ObjectConcept)\nOPTIONAL MATCH (child:ObjectConcept)-[:IS_A]->(c)\nRETURN c, parent, child\n哮喘是一种呼吸疾病",
+      "metadata": {
+        "chunk_id": 51,
+        "page_number": 51,
+        "page_range": "51",
+        "word_count": 21
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n示例2：展示哮喘（Asthma）的 构组成\nMATCH (c:ObjectConcept {id: '195967001'})-\n[:HAS_ROLE_GROUP]->(rg:RoleGroup)\nOPTIONAL MATCH (rg)-[r]->(target:ObjectConcept)\nRETURN c, rg, r, target",
+      "metadata": {
+        "chunk_id": 52,
+        "page_number": 52,
+        "page_range": "52",
+        "word_count": 17
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n示例3：展示疾病和病因的因 关系\nMATCH (c:ObjectConcept)-[:HAS_ROLE_GROUP]->(rg:RoleGroup)\nMATCH (rg)-[:CAUSATIVE_AGENT]->(agent:ObjectConcept)\nRETURN c, rg, agent LIMIT 10",
+      "metadata": {
+        "chunk_id": 53,
+        "page_number": 53,
+        "page_range": "53",
+        "word_count": 14
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n让RAG 流程中的各个子任务\n执行的更为精细",
+      "metadata": {
+        "chunk_id": 54,
+        "page_number": 54,
+        "page_range": "54",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n4. Agent最新发展：MCP / Manus \nCUA / Computer / Browser Use ……",
+      "metadata": {
+        "chunk_id": 55,
+        "page_number": 55,
+        "page_range": "55",
+        "word_count": 13
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n        Apr               t                       r     \n  enAI S ra\n        \n  生成\n e in    r  r\n  r     \nA 代    \n ee See    \n        \n强大的开源 型\n la  e   m  ter   e\n  t     \n 算机 制\n  enAI   erat r\n        \n   自 化\n an  \n  r     \n强大的Ag  t\n ee See    \n        \n  生成 代 生成  算机 制 高级推理 自主代理\nModel Context Protocol (MCP)\n 型开放协议",
+      "metadata": {
+        "chunk_id": 56,
+        "page_number": 56,
+        "page_range": "56",
+        "word_count": 51
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n一句话理解MCP\n就像数据库中的\nJDBC，或者微服\n务中的 gRPC，是\n一个通用接口层。\nMCP 是一种用于统\n一连接 AI 模型与数\n据/工具 的标准协议",
+      "metadata": {
+        "chunk_id": 57,
+        "page_number": 57,
+        "page_range": "57",
+        "word_count": 15
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n到底是什么！！！\n角色 类比 你的职责 场景\nMCP Client  机 你 通过USB-C口连\n接各种设备（服  ）\n让你的 LLM（比如\nClaude、GPT、\nDeepSeek）能通过\nMCP 协议调用 MCP \nServer 提 的  和\n 具。\nMCP Server U盘/相机/耳机 提   或能力\n让 Claude / 其他 型\n通过 MCP 协议访问你\n已 的能力，比如 \n 库 询、API 调用、\n本地 具等。\nLLM开发者  机App开发者 使用 机访问和利用\n这些设备\n调用MCP Client\n访问MCP Server",
+      "metadata": {
+        "chunk_id": 58,
+        "page_number": 58,
+        "page_range": "58",
+        "word_count": 55
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n作为开发人员，写 MCP Client 是在做什么？\n你在做的是：\n 写一个程序，让你的 LLM（比如 Claude、GPT、LLaMA）能通过 MCP 协议调用 MCP \nServer 提供的数据和工具。\n换句话说：\n• 你是 型的“带队人”，\n•  型不 直接访问  库，但它 告诉你：“我想 一下 中的  ”。\n• 你写的 MCP Client 就帮它找对 MCP Server，并把 询结果返回给 型。\n类比：\n 型像个管家，MCP Client 是他的助理，MCP Server 是资料室、 具房。\n实际上你会做的事情包括：\n•  写连接 MCP Server 的逻 （通常基于 socket、HTTP 或 gRPC）\n• 把 型发出的“function call”（ 图）转为 MCP 请 \n• 等待 MCP Server 返回结果，然后反馈给 型\n• 可 ：处理多个 server 的注 、状态、调度等",
+      "metadata": {
+        "chunk_id": 59,
+        "page_number": 59,
+        "page_range": "59",
+        "word_count": 72
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n我用 Claude Desktop 访问一个已有的 Example \nServer，比如 SQLite，是在做什么？\n你在做的是：\n使用 Claude Desktop 这个 MCP Client，连接一个官方的 MCP Server（比如 SQLite Server）\n，让 Claude  型可以通过自然语言直接访问你的 SQLite 数据库。\n举个例子：\n你在本地运行一个官方的 SQLite MCP Server， Claude Desktop 的 MCP Client  自 发现它\n， 你输入：“请告诉我  销售额超过1万的客户”。\nClaude  ：\n• 解析你的语句\n• 自 生成 SQL\n• 调用 SQLite MCP Server\n• 获取结果并显示给你\n你完 不需 写 SQL，也不需 知道  库结构，只 MCP Server 提 了 schema\n，Claude 就能用。\n你不需要编写代码，只需要运行官方组件，即可 验 MCP 模型与本地数据的连接\n效 。",
+      "metadata": {
+        "chunk_id": 60,
+        "page_number": 60,
+        "page_range": "60",
+        "word_count": 74
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n写自己的 MCP Server，是在做什么？\n你在做的是：\n创建一个 MCP Server，让 Claude / 其他 型 通过 MCP 协议访问你已有的能力\n，比如数据库 询、API 调用、本地工具等。\n也就是说：\n你负 把现 的“能力”打 成“标 接口”——\n• 比如你项目里已经 一个 API  询    ；\n• 或者你本地 一个能生成图 的 Python 脚本；\n你写一个 MCP Server， 义这些能力的 schema（函  、输入输出参 ）\nClaude 或其他 型通过 MCP Client，就能理解这些能力，并发出请 。\n你会做的事情包括：\n1. 义函 接口（使用 JSON Schema）\n2.用 SDK / 官方 具实现接口逻 \n3.启 MCP Server 并暴露出来（本地或远程）\n4.可 ：在开发时配合使用 MCP Inspector 调试",
+      "metadata": {
+        "chunk_id": 61,
+        "page_number": 61,
+        "page_range": "61",
+        "word_count": 70
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n举个例子\n你写一个“天气 询”   P Ser er：\n你 义的能力：\n{\n\"name\": \"get_weather\",\n\"description\": \" 询某地的天气\",\n\"parameters\": {\n\"type\": \"object\",\n\"properties\": {\n\"city\": { \"type\": \"string\" }\n},\n\"required\": [\"city\"]\n}\n}\n你用 Flask 或其他框架写服 接入天气 API。 Claude 就可以通过 MCP \nClient 调用这个服 ：\n“请告诉我 天 加坡的天气” →  CP   r  r → 返回结果",
+      "metadata": {
+        "chunk_id": 62,
+        "page_number": 62,
+        "page_range": "62",
+        "word_count": 52
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n三种角色你做的事情\n你在做什么 相当于什么 是否需 写代 主 任 \n写 MCP Client  型的“ 具调度\n ”\n 是 调用 MCP Server \n并返回结果给 型\n用 Claude \nDesktop + 官方\nServer\n 型的“终端用户”\n 否\n启 服 ，观察\nClaude 怎么使用\n它\n写 MCP \nServer\n 型的“ 具制造\n者”\n 是 把已 的  /能力\n暴露给 型使用",
+      "metadata": {
+        "chunk_id": 63,
+        "page_number": 63,
+        "page_range": "63",
+        "word_count": 47
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n什么时候用MCP，什么时候用API\n场景 是否建议用 MCP\n多 型访问统一 具或 \n 库\n 非常适合\n构建 AI Agent 系统， 型\n主 调用 具\n 推荐\n项目接口混乱、难以维 \n 可以引入 MCP 统一规\n范\n只是调用  API，功能\n简单\n 直接写 API 更轻便",
+      "metadata": {
+        "chunk_id": 64,
+        "page_number": 64,
+        "page_range": "64",
+        "word_count": 31
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nManus\nManus的核心在于其多智能体（Multi-Agent）协作架构，主 由以下三个关键 块组成：\n1.规划模块（Planning）：充当系统的“大脑”，负 理解用户需 ，将复杂任 拆解为可执\n行的子任 ，并制 详细的执行 划。\n2.记忆模块（Memory）：用于存储用户偏好、历史交互和中间结果，确 任 处理的连贯 \n和个 化。\n3.工具使用模块（Tool Use）：作为系统的“ ”，能够调用多种外部 具，如网络搜索、 \n 分析、代 执行等，来完成具体任 。",
+      "metadata": {
+        "chunk_id": 65,
+        "page_number": 65,
+        "page_range": "65",
+        "word_count": 26
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者",
+      "metadata": {
+        "chunk_id": 66,
+        "page_number": 66,
+        "page_range": "66",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nManus后面都做了些什么？\n1. 任务接收：用户提交需 ，Manus开始处理。\n2. 任务理解：规划 块分析用户输入，结合 忆 块中的  ， 确理解任 目标。\n3. 任务分解：将复杂任 拆解为多个子任 ， 确各子任 的执行顺序和依赖关系。\n4. 计划制 ：为 个子任 制 具体的执行 划，指  需 具和资源。\n5. 自主执行： 具使用 块调用相应 具，按照 划执行各子任 。\n6. 质量检测：系统实时监测执行质量，  时进行自我修正。\n7.   整合：将各子任 的输出整合为完整的结果。\n8. 交付用户：向用户提  终结果，并  反馈进行优化。",
+      "metadata": {
+        "chunk_id": 67,
+        "page_number": 67,
+        "page_range": "67",
+        "word_count": 46
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n虚拟机（Virtual Machine，VM）\n虚拟机的作用：\n1. 任务隔离：  个任 在独立的虚拟机中执行，确 任 之间互不干扰，防止资源竞争或  泄露。\n2. 安全 ： 通过虚拟机的沙箱机制，限制任 对系统的访问权限，防止恶 代 或操作对主系统造成影响。\n3. 环境一致 ： 虚拟机提 一致的执行环境，避 由于环境差异导致的任 执行问题，提高系统的可靠 。\n虚拟机的实现：\nManus通常在Linux虚拟机上运行，该虚拟机  以下组件：\n• Chrome浏览器： 用于 拟人类的网页  行为，执行搜索、点击、滚 等操作，并通过 觉识别获取网页内容。\n• Python运行环境： 用于执行  分析脚本，支持更复杂的任 ，如代 运行和  处理。\n虚拟机的工作流程：\n1. 任务初始化： 当接收到 的任 时，系统 为其分配一个独立的虚拟机环境。\n2. 任务执行： 在虚拟机中，Manus调用相应的 具和资源，按照预 的 划执行任 。\n3.   存储： 任 执行过程中产生的中间结果和 终输出  存储在虚拟机的文件系统中， 后续步骤使用。\n4. 任务 成： 任 完成后，虚拟机的资源 被释放，以 其他任 使用。",
+      "metadata": {
+        "chunk_id": 68,
+        "page_number": 68,
+        "page_range": "68",
+        "word_count": 73
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nOpenAI Responses API\nOpenAI 于 2025 年 3 月推出了 Responses API，旨在为开发者提 更简洁且 达能力更强的\n方 与其 型交互。它结合了 Chat Completions API 的简洁 和 Assistants API 的 具使用能\n力，帮助开发者\n主要特 ：\n1.内置工具支持：\n1.Web Search：允许 型通过网络搜索获取    ，确  型能够访问实时  。\n2.File Search：支持从大量文档中检索相关  ，适用于客户支持或法律助理等场景。\n3.Computer Use：利用 OpenAI 的 Operator  型， 拟鼠标和键盘操作，执行 算机任 自 化。\n2.与 Agents SDK 的集成： Responses API 与 OpenAI 的 Agents SDK 无缝集成，后者帮助\n开发者协调多个 AI 代理的 作流程，处理更复杂的任 。\n更轻松地构建功能强大的 AI 应用程序。",
+      "metadata": {
+        "chunk_id": 69,
+        "page_number": 69,
+        "page_range": "69",
+        "word_count": 70
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nResponses API 进行网络搜索的示例\nconst response = await openai.responses.create({\nmodel: \"gpt-4o\",\ntools: [{ type: \"web_search_preview\" }],\ninput: \"What was a positive news story that happened today?\",\n});\nconsole.log(response.output_text);\nResponses API 提供了更高的表达能力和灵活 ，支持内置工具的使用，使模型能够执行更复\n杂的任务。相比之下，Chat Completions API 更侧重于生成对话回复。",
+      "metadata": {
+        "chunk_id": 70,
+        "page_number": 70,
+        "page_range": "70",
+        "word_count": 37
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nOpenAI的Agents SDK VS Anthropic的MCP（Model Context Protocol）\n都是为增强AI模型与外 工具和数据源的交互能力而设计的，但它们在 位、设 理念\n和实现方 上存在显著差异。\n1.  位与目标不 \n2. 设计理 不 \n3. 实现方式不 \n4. 生 系统不",
+      "metadata": {
+        "chunk_id": 71,
+        "page_number": 71,
+        "page_range": "71",
+        "word_count": 24
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nComputer Use（Anthropic）\nComputer Use 是 Anthropic 推出的一种 具，旨在让 AI 代理通过 API 与 算机界面交互，支持   和桌面应用程序。其技术实现主\n 基于 Claude 3.5 Sonnet  型。\n技术实现原理\n•多模 模型：\nClaude 3.5 Sonnet 是一个多 态 型，能够处理文本、图像和音 输入。它不仅具备强大的语言理解能力， 能通过图像识别技术理解\n 算机界面。\n•视觉识别：\n 型接收屏幕截图，识别界面上的元素（如按钮、输入框、菜单等），为后续操作提 基础。\n•操作生成与执行：\n•   任 指令（如“打开   并搜索某个关键词”）， 型分析当前界面状态，生成操作序列（如点击、输入、滚 等）。\n• 通过 API 将这些操作传递给 算机界面， 拟人类行为。\n•API 驱动：\nComputer Use 提 了一个开发者友好的 API 接口，使得 AI 代理可以集成到各种应用程序中，实现自 化任 。\n•反馈循环：\n在任 执行过程中， 型接收界面反馈（如操作后的 屏幕截图），并 此调整后续操作，形成闭环 制。\n技术特点\n•支持广泛的 算机界面交互（不仅限于   ，  括桌面应用）。\n•通过 API 实现灵活的集成。",
+      "metadata": {
+        "chunk_id": 72,
+        "page_number": 72,
+        "page_range": "72",
+        "word_count": 76
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\nCUA（Computer-Using Agent，OpenAI）\nCUA 是 OpenAI 开发的 AI 代理，专注于在   环境中执行任 ，例如填写 单、订购 品等。其技术实现基于 GPT-4o  型，并结合\n了强化学习技术。\n技术实现原理\n•多模 模型：\nGPT-4o 是一个多 态 型，具备 觉识别和语言理解能力，能够处理屏幕截图并理解界面内容。\n•视觉和推理能力：\n•  型分析屏幕截图，识别可交互元素（如链接、按钮、输入框）。\n• 通过语言理解和推理能力，推导出完成任  需的操作步骤。\n•强化学习：\n• CUA 通过强化学习训练，尝试不 的操作序列并  任 完成情况获得奖励，从而优化操作 略。\n• 这种方法提高了任 执行的 确 和效率。\n•操作执行：\n•  型生成具体操作指令（如点击某个坐标、输入文本、滚 页面等）。\n• 这些操作直接在   中执行， 拟人类用户行为。\n技术特点\n•专注于   环境，针对 Web 任 深度优化。\n•通过强化学习提升操作效率。",
+      "metadata": {
+        "chunk_id": 73,
+        "page_number": 73,
+        "page_range": "73",
+        "word_count": 59
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n那么这些像素级读取屏幕的方向，\n和MCP这个方向，有何异 ，什\n么场景做出什么选择？",
+      "metadata": {
+        "chunk_id": 74,
+        "page_number": 74,
+        "page_range": "74",
+        "word_count": 6
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n主要异 \n维度 像素级读取屏幕 MCP\n原理  觉识别，分析屏幕\n像素\n标 化接口，  交\n换\n通用 高，无需 API 支持 中，依赖 API\n资源消耗 高，需图像处理 低，主   传输\n安全 较低，可能涉及  较高，权限可 \n灵活 高，适应 态界面 较低，依赖外部系统\n支持",
+      "metadata": {
+        "chunk_id": 75,
+        "page_number": 75,
+        "page_range": "75",
+        "word_count": 31
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n如何选择\n选择像素级读取屏幕的场景\n1. 无 API 支持的界面： 如果你 操作的界面（例如某些桌面软件或网页）没 提 API，像素级读取\n是 一可行的方案。\n2. 动 或复杂界面： 当界面元素经常变化或布局复杂时， 觉识别能灵活应对这些挑战。\n3. 快速原型开发： 在项目早期，验证 AI 在界面上的操作能力时，像素级读取可以快速实现。\n选择 MCP 的场景\n1. 有 API 支持的系统： 如果目标系统（如  库、云服 ）提 了 API，MCP 可以高效、  地完成\n任 。\n2. 高安全 和隐私要 ： 在需 严  制  访问权限的场景中，MCP 通过 API 提 更细致的权限管\n理。\n3. 资源受限环境： 当 算资源 限时，MCP 的低资源消耗更具优势。\n4. 标准化和扩展 需 ： 如果需 集成多种 具或服 ，MCP 的标 化接口能促进系统扩展。",
+      "metadata": {
+        "chunk_id": 76,
+        "page_number": 76,
+        "page_range": "76",
+        "word_count": 69
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n学习并真正理解一个复杂事物\n才是知识真正内化的过程\n 时也是新想法产生的过程",
+      "metadata": {
+        "chunk_id": 77,
+        "page_number": 77,
+        "page_range": "77",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者\n祝愿大家对AI的未来充满好奇\n好奇心人和动物的本质区别是：",
+      "metadata": {
+        "chunk_id": 78,
+        "page_number": 78,
+        "page_range": "78",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "黄佳《动手做AI Agent》《GPT图解》作者",
+      "metadata": {
+        "chunk_id": 79,
+        "page_number": 79,
+        "page_range": "79",
+        "word_count": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "query": "What is GRPO",
+  "collection_id": "DeepSeek_R1_openai_20250214170740",
+  "timestamp": "2025-02-14T17:44:07.734225",
+  "results": [
+    {
+      "text": "Group Relative Policy Optimization In order to save the training costs of RL, we adopt Group Relative Policy Optimization (GRPO) (Shao et al., 2024), which foregoes the critic model that is typically the same size as the policy model, and estimates the baseline from group scores instead. Specifically, for each question 𝑞, GRPO samples a group of outputs {𝑜1, 𝑜2, · · · , 𝑜𝐺} from the old policy 𝜋𝜃𝑜𝑙𝑑 and then optimizes the policy model 𝜋𝜃 by maximizing the following objective:",
+      "score": 0.5254793167114258,
+      "metadata": {
+        "source": "DeepSeek_R1.pdf",
+        "page": "5",
+        "chunk": 41,
+        "total_chunks": 180,
+        "page_range": "5",
+        "embedding_provider": "openai",
+        "embedding_model": "text-embedding-3-small",
+        "embedding_timestamp": "2025-02-14T16:48:03.946618"
+      }
+    }
+  ]
+}

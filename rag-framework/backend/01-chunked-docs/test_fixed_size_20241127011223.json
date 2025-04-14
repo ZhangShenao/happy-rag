@@ -1,0 +1,19 @@
+{
+  "filename": "test.pdf",
+  "total_chunks": 1,
+  "total_pages": 1,
+  "loading_method": "pymupdf",
+  "chunking_method": "fixed_size",
+  "timestamp": "2024-11-27T01:12:23.542514",
+  "chunks": [
+    {
+      "content": "Testing PDF",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    }
+  ]
+}

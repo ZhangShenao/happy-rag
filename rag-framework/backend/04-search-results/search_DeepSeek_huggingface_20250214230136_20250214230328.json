@@ -1,0 +1,35 @@
+{
+  "query": "What is GRPO",
+  "collection_id": "DeepSeek_huggingface_20250214230136",
+  "timestamp": "2025-02-14T23:03:28.070288",
+  "results": [
+    {
+      "text": "Group Relative Policy Optimization In order to save the training costs of RL, we adopt Group Relative Policy Optimization (GRPO) (Shao et al., 2024), which foregoes the critic model that is typically the same size as the policy model, and estimates the baseline from group scores instead. Specifically, for each question 𝑞, GRPO samples a group of outputs {𝑜1, 𝑜2, · · · , 𝑜𝐺} from the old policy 𝜋𝜃𝑜𝑙𝑑 and then optimizes the policy model 𝜋𝜃 by maximizing the following objective:",
+      "score": 0.23180031776428223,
+      "metadata": {
+        "source": "DeepSeek.pdf",
+        "page": "5",
+        "chunk": 133,
+        "total_chunks": 460,
+        "page_range": "5",
+        "embedding_provider": "huggingface",
+        "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+        "embedding_timestamp": "2025-02-14T22:56:08.940325"
+      }
+    },
+    {
+      "text": "A conversation between User and Assistant. The user asks a question, and the Assistant solves it. The assistant first thinks about the reasoning process in the mind and then provides the user with the answer. The reasoning process and answer are enclosed within <think> </think> and <answer> </answer> tags, respectively, i.e., <think> reasoning process here </think> <answer> answer here </answer>. User: prompt. Assistant:",
+      "score": 0.12676094472408295,
+      "metadata": {
+        "source": "DeepSeek.pdf",
+        "page": "6",
+        "chunk": 162,
+        "total_chunks": 460,
+        "page_range": "6",
+        "embedding_provider": "huggingface",
+        "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+        "embedding_timestamp": "2025-02-14T22:56:09.155617"
+      }
+    }
+  ]
+}

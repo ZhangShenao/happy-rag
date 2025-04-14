@@ -1,0 +1,4296 @@
+{
+  "filename": "074.pdf",
+  "total_chunks": 197,
+  "total_pages": 1,
+  "loading_method": "unstructured",
+  "loading_strategy": "fast",
+  "chunking_strategy": "basic",
+  "chunking_method": "loaded",
+  "timestamp": "2025-03-10T20:50:25.869882",
+  "chunks": [
+    {
+      "content": "2023 Boeing Sustainability Report",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 4,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 35.53189999999995), (36.0, 57.527900000000045), (130.51800000000003, 57.527900000000045), (130.51800000000003, 35.53189999999995)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "33850853bdfbe4e4892cd88749638644",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Contents",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 101.3159), (36.0, 110.8159), (74.7125, 110.8159), (74.7125, 101.3159)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "d8e90278127f27c00a05b4214650072a",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Introduction",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 135.1929), (36.0, 144.6929), (87.034, 144.6929), (87.034, 135.1929)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "c1d1aadbb71f0693a0ccc00a7bce784c",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Approach & Governance",
+      "metadata": {
+        "chunk_id": 4,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 169.06990000000002), (36.0, 178.56990000000002), (138.43849999999998, 178.56990000000002), (138.43849999999998, 169.06990000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "641803c148499849aa38dc32ffc979a5",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "People",
+      "metadata": {
+        "chunk_id": 5,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 202.94690000000003), (36.0, 212.44690000000003), (65.5545, 212.44690000000003), (65.5545, 202.94690000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "659fbc00ef1b759d998362f148ebd434",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Products & Services",
+      "metadata": {
+        "chunk_id": 6,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 236.82390000000004), (36.0, 246.32390000000004), (121.86100000000002, 246.32390000000004), (121.86100000000002, 236.82390000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "42fa83c47fb01592f55d51d873b362d9",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Operations",
+      "metadata": {
+        "chunk_id": 7,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 270.70090000000005), (36.0, 280.20090000000005), (82.8065, 280.20090000000005), (82.8065, 270.70090000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "602f13eed183049825df695dfaf70c9f",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Communities",
+      "metadata": {
+        "chunk_id": 8,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 304.57790000000006), (36.0, 314.07790000000006), (92.14500000000001, 314.07790000000006), (92.14500000000001, 304.57790000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "b9edf20d7bd3e06564c260fa45b0c41f",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Reporting",
+      "metadata": {
+        "chunk_id": 9,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 338.4929), (36.0, 347.9929), (80.84949999999999, 347.9929), (80.84949999999999, 338.4929)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "41f2446a69fee10ba0cbb39c28fab323",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Key ESG Data",
+      "metadata": {
+        "chunk_id": 10,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 356.5054), (36.0, 365.2554), (91.74625000000002, 365.2554), (91.74625000000002, 356.5054)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "445ad7a3163c52278df930600bf1a1e3",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "GRI Index",
+      "metadata": {
+        "chunk_id": 11,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 373.94415000000004), (36.0, 382.69415000000004), (74.88499999999999, 382.69415000000004), (74.88499999999999, 373.94415000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "bb1e74fd1f1f3d6cd0bb2c92ddb42a09",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "SASB Index",
+      "metadata": {
+        "chunk_id": 12,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 391.38290000000006), (36.0, 400.13290000000006), (82.9875, 400.13290000000006), (82.9875, 391.38290000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "29dd057d4de2f12f74cbb1d03e5d1ac9",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "TCFD Index",
+      "metadata": {
+        "chunk_id": 13,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 408.8216500000001), (36.0, 417.5716500000001), (82.50625, 417.5716500000001), (82.50625, 408.8216500000001)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "a4db34c006ffd96528c3a3196f98ab4b",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "U.N. Sustainable Development Goals",
+      "metadata": {
+        "chunk_id": 14,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 4,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 426.2604000000001), (36.0, 446.5079000000001), (112.9825, 446.5079000000001), (112.9825, 426.2604000000001)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "7214df24bcb72cbdd78123f0bee423d1",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Awards and Recognition",
+      "metadata": {
+        "chunk_id": 15,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 455.19665000000015), (36.0, 463.94665000000015), (131.61124999999998, 463.94665000000015), (131.61124999999998, 455.19665000000015)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "296a6dad7734d99ab19ddac23f7b6b86",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Select Memberships and Partnerships",
+      "metadata": {
+        "chunk_id": 16,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 4,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 472.6354000000002), (36.0, 492.8829000000002), (118.66125000000001, 492.8829000000002), (118.66125000000001, 472.6354000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "8fc9ef77cc810ddac588cfc20bcb5838",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Forward-Looking Statements",
+      "metadata": {
+        "chunk_id": 17,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 501.5716500000002), (36.0, 521.8191500000003), (107.78500000000001, 521.8191500000003), (107.78500000000001, 501.5716500000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "85e262cb1e197c77a67884d37191136f",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "74",
+      "metadata": {
+        "chunk_id": 18,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((36.0, 575.4239), (36.0, 583.4239), (44.896, 583.4239), (44.896, 575.4239)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Footer",
+        "id": "e678c880bab29106aa51430fed2da864",
+        "category": "Footer"
+      }
+    },
+    {
+      "content": "Key ESG Data",
+      "metadata": {
+        "chunk_id": 19,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((203.4859, 77.75969999999995), (203.4859, 107.75970000000001), (388.5559, 107.75970000000001), (388.5559, 77.75969999999995)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "7170a3d18d9959a432c2f33dac2899ba",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Environmental Data",
+      "metadata": {
+        "chunk_id": 20,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((207.0432, 112.77880000000005), (207.0432, 120.77880000000005), (282.0032, 120.77880000000005), (282.0032, 112.77880000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "5827351fac8d6edea6e62d4c32d4b68b",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "2022",
+      "metadata": {
+        "chunk_id": 21,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((529.5317, 129.1159), (529.5317, 137.1159), (547.3237, 137.1159), (547.3237, 129.1159)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5827351fac8d6edea6e62d4c32d4b68b",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "a004c9d3dcbdb426ce2d5000f0b645a0",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2021",
+      "metadata": {
+        "chunk_id": 22,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((702.8677, 129.1159), (702.8677, 137.1159), (720.6597, 137.1159), (720.6597, 129.1159)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5827351fac8d6edea6e62d4c32d4b68b",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "1cc7e42bb4b6593d712d893f4e4f8627",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2020",
+      "metadata": {
+        "chunk_id": 23,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((876.2037, 129.1159), (876.2037, 137.1159), (893.9957, 137.1159), (893.9957, 129.1159)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5827351fac8d6edea6e62d4c32d4b68b",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "4c9cd6a43b6487cf2c38f19ef1febd8f",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Energy1",
+      "metadata": {
+        "chunk_id": 24,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((209.52, 146.3431225), (209.52, 153.90430000000003), (236.13071, 153.90430000000003), (236.13071, 146.3431225)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "61e1586fd85ef2924e0c403df8a2b76b",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Megawatt hours",
+      "metadata": {
+        "chunk_id": 25,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((457.5208, 146.40430000000003), (457.5208, 153.90430000000003), (513.6508, 153.90430000000003), (513.6508, 146.40430000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "c20d0e27182ac5f554a69fcf200718be",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Terajoules",
+      "metadata": {
+        "chunk_id": 26,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.1908, 146.40430000000003), (544.1908, 153.90430000000003), (579.2158000000001, 153.90430000000003), (579.2158000000001, 146.40430000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "5661498dfe5ea2bacb761d63890a22ca",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Megawatt hours",
+      "metadata": {
+        "chunk_id": 27,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((630.8607999999999, 146.40430000000003), (630.8607999999999, 153.90430000000003), (686.9907999999999, 153.90430000000003), (686.9907999999999, 146.40430000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "f604e1eb5f0d649a536905bc9b9ef4ee",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Terajoules",
+      "metadata": {
+        "chunk_id": 28,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.5307999999999, 146.40430000000003), (717.5307999999999, 153.90430000000003), (752.5558, 153.90430000000003), (752.5558, 146.40430000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "b53e6041a8d44fea7b7eb93e9cbbe6f7",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Megawatt hours",
+      "metadata": {
+        "chunk_id": 29,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((804.2007999999998, 146.40430000000003), (804.2007999999998, 153.90430000000003), (860.3307999999998, 153.90430000000003), (860.3307999999998, 146.40430000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "72060bea361aaa65a45d8b0bc484c332",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Terajoules",
+      "metadata": {
+        "chunk_id": 30,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.8707999999998, 146.40430000000003), (890.8707999999998, 153.90430000000003), (925.8957999999999, 153.90430000000003), (925.8957999999999, 146.40430000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "80a8e6d0fa4aa35976c4bda77c20707a",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Natural gas",
+      "metadata": {
+        "chunk_id": 31,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((209.5333, 162.04930000000002), (209.5333, 169.54930000000002), (247.86579999999998, 169.54930000000002), (247.86579999999998, 162.04930000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "79268bf87257b7a18105a04390dd8146",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "1,928,000",
+      "metadata": {
+        "chunk_id": 32,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.5358, 162.04930000000002), (457.5358, 169.54930000000002), (490.8958, 169.54930000000002), (490.8958, 162.04930000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "79268bf87257b7a18105a04390dd8146",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "46b303abd7bbea895e36176bd7eb766f",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "6,941",
+      "metadata": {
+        "chunk_id": 33,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2058, 162.04930000000002), (544.2058, 169.54930000000002), (562.9707999999999, 169.54930000000002), (562.9707999999999, 162.04930000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "79268bf87257b7a18105a04390dd8146",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "9ba2324187f8f71c50b24edf4ac800f5",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,712,000",
+      "metadata": {
+        "chunk_id": 34,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.8758, 162.04930000000002), (630.8758, 169.54930000000002), (664.2358, 169.54930000000002), (664.2358, 162.04930000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "79268bf87257b7a18105a04390dd8146",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "94d18b8b7c7ecb9d26831d16bbab3858",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "6,163",
+      "metadata": {
+        "chunk_id": 35,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.5458, 162.04930000000002), (717.5458, 169.54930000000002), (736.3108, 169.54930000000002), (736.3108, 162.04930000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "79268bf87257b7a18105a04390dd8146",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c4d130b1e1d584e0e63248dbf47c3737",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,686,000",
+      "metadata": {
+        "chunk_id": 36,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2158, 162.04930000000002), (804.2158, 169.54930000000002), (837.5758, 169.54930000000002), (837.5758, 162.04930000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "79268bf87257b7a18105a04390dd8146",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c510d0b498ca8fe5ecea3fb57007e3f4",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "6,070",
+      "metadata": {
+        "chunk_id": 37,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.8857999999999, 162.04930000000002), (890.8857999999999, 169.54930000000002), (909.6507999999999, 169.54930000000002), (909.6507999999999, 162.04930000000002)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "79268bf87257b7a18105a04390dd8146",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "b6458bef6953bfe197a565cb575835d4",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Jet kerosene",
+      "metadata": {
+        "chunk_id": 38,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((209.54829999999993, 176.38930000000005), (209.54829999999993, 183.88930000000005), (252.47829999999993, 183.88930000000005), (252.47829999999993, 176.38930000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "d2b0a31ca2db091b8caa9e972e0c7382",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "861,000",
+      "metadata": {
+        "chunk_id": 39,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.5507999999999, 176.38930000000005), (457.5507999999999, 183.88930000000005), (486.7407999999999, 183.88930000000005), (486.7407999999999, 176.38930000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "d2b0a31ca2db091b8caa9e972e0c7382",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "7d5aa6829ccf4360d4e7fda989b9e358",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "3,100",
+      "metadata": {
+        "chunk_id": 40,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2207999999999, 176.38930000000005), (544.2207999999999, 183.88930000000005), (562.9857999999999, 183.88930000000005), (562.9857999999999, 176.38930000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "d2b0a31ca2db091b8caa9e972e0c7382",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "e33c85488c7bb5eca9fefe120c7085ff",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "804,000",
+      "metadata": {
+        "chunk_id": 41,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.8907999999999, 176.38930000000005), (630.8907999999999, 183.88930000000005), (657.9957999999998, 183.88930000000005), (657.9957999999998, 176.38930000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "d2b0a31ca2db091b8caa9e972e0c7382",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "b8dfaa44e9ce73d988c85ad78ed21a3e",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,894",
+      "metadata": {
+        "chunk_id": 42,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.5607999999999, 176.38930000000005), (717.5607999999999, 183.88930000000005), (736.3257999999998, 183.88930000000005), (736.3257999999998, 176.38930000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "d2b0a31ca2db091b8caa9e972e0c7382",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "efe32820f427bd020ec213add3cd8150",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "544,000",
+      "metadata": {
+        "chunk_id": 43,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2307999999998, 176.38930000000005), (804.2307999999998, 183.88930000000005), (831.3357999999997, 183.88930000000005), (831.3357999999997, 176.38930000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "d2b0a31ca2db091b8caa9e972e0c7382",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "2c85078d344eb016008aaefa4fd3a2ec",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,958",
+      "metadata": {
+        "chunk_id": 44,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.9007999999998, 176.38930000000005), (890.9007999999998, 183.88930000000005), (909.6657999999998, 183.88930000000005), (909.6657999999998, 176.38930000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "d2b0a31ca2db091b8caa9e972e0c7382",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "6e08509b2b96a7ee2353b8cdb0c60255",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Fuel oil #2",
+      "metadata": {
+        "chunk_id": 45,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.5632999999998, 190.78930000000003), (209.5632999999998, 198.28930000000003), (243.8757999999998, 198.28930000000003), (243.8757999999998, 190.78930000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "9ed4ad0fadc0c423e6d5ff33159b2b6a",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "127,000",
+      "metadata": {
+        "chunk_id": 46,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.5657999999998, 190.78930000000003), (457.5657999999998, 198.28930000000003), (484.6707999999998, 198.28930000000003), (484.6707999999998, 190.78930000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "9ed4ad0fadc0c423e6d5ff33159b2b6a",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "acbd91805ff621db33842586c656e4da",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "457",
+      "metadata": {
+        "chunk_id": 47,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2357999999998, 190.78930000000003), (544.2357999999998, 198.28930000000003), (556.7457999999998, 198.28930000000003), (556.7457999999998, 190.78930000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "9ed4ad0fadc0c423e6d5ff33159b2b6a",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "3ca75e332ecda0ce27e68eb008f61e1e",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "153,000",
+      "metadata": {
+        "chunk_id": 48,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.9057999999998, 190.78930000000003), (630.9057999999998, 198.28930000000003), (658.0107999999997, 198.28930000000003), (658.0107999999997, 190.78930000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "9ed4ad0fadc0c423e6d5ff33159b2b6a",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "5af3c23eb6374eeae2e6ddf436f0cef5",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "551",
+      "metadata": {
+        "chunk_id": 49,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.5757999999997, 190.78930000000003), (717.5757999999997, 198.28930000000003), (730.0857999999997, 198.28930000000003), (730.0857999999997, 190.78930000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "9ed4ad0fadc0c423e6d5ff33159b2b6a",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "903b0012b61a0122816f367273286566",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "149,000",
+      "metadata": {
+        "chunk_id": 50,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2457999999997, 190.78930000000003), (804.2457999999997, 198.28930000000003), (831.3507999999996, 198.28930000000003), (831.3507999999996, 190.78930000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "9ed4ad0fadc0c423e6d5ff33159b2b6a",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "73e9678c5f4a4bde6e88791d8e6cadc9",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "536",
+      "metadata": {
+        "chunk_id": 51,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.9157999999996, 190.78930000000003), (890.9157999999996, 198.28930000000003), (903.4257999999996, 198.28930000000003), (903.4257999999996, 190.78930000000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "9ed4ad0fadc0c423e6d5ff33159b2b6a",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "ff417779dfafadcbb0d97fa5df8d1fb6",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Motor gasoline",
+      "metadata": {
+        "chunk_id": 52,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((209.57829999999967, 205.1893), (209.57829999999967, 212.6893), (259.58079999999967, 212.6893), (259.58079999999967, 205.1893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "cad08a82eaae6ae57b04700f3049b1d3",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "24,000",
+      "metadata": {
+        "chunk_id": 53,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.58079999999967, 205.1893), (457.58079999999967, 212.6893), (480.5157999999997, 212.6893), (480.5157999999997, 205.1893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cad08a82eaae6ae57b04700f3049b1d3",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "81b7dbd8e238eb77e5b58cc70105f875",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "86",
+      "metadata": {
+        "chunk_id": 54,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2507999999997, 205.1893), (544.2507999999997, 212.6893), (552.5907999999996, 212.6893), (552.5907999999996, 205.1893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cad08a82eaae6ae57b04700f3049b1d3",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "fa8cc36ab7837be7aca221b6e0df1986",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "21,000",
+      "metadata": {
+        "chunk_id": 55,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.9207999999996, 205.1893), (630.9207999999996, 212.6893), (653.8557999999996, 212.6893), (653.8557999999996, 205.1893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cad08a82eaae6ae57b04700f3049b1d3",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "e7d144bee3ceb9c6bfd1930125eacae3",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "76",
+      "metadata": {
+        "chunk_id": 56,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.5907999999996, 205.1893), (717.5907999999996, 212.6893), (725.9307999999996, 212.6893), (725.9307999999996, 205.1893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cad08a82eaae6ae57b04700f3049b1d3",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "af30f587e79751fe615419abd7fbd7ab",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "21,000",
+      "metadata": {
+        "chunk_id": 57,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2607999999996, 205.1893), (804.2607999999996, 212.6893), (827.1957999999995, 212.6893), (827.1957999999995, 205.1893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cad08a82eaae6ae57b04700f3049b1d3",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "2e82739ae2121be83d5c978ab497dff8",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "76",
+      "metadata": {
+        "chunk_id": 58,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.9307999999995, 205.1893), (890.9307999999995, 212.6893), (899.2707999999996, 212.6893), (899.2707999999996, 205.1893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cad08a82eaae6ae57b04700f3049b1d3",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "999eee5b6e4ead567fdef48471431d2d",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Propane",
+      "metadata": {
+        "chunk_id": 59,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((209.59329999999954, 219.58930000000004), (209.59329999999954, 227.08930000000004), (237.79329999999956, 227.08930000000004), (237.79329999999956, 219.58930000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "6a0b5688beffab061a4c58ddba7e70ae",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "11,000",
+      "metadata": {
+        "chunk_id": 60,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.59579999999954, 219.58930000000004), (457.59579999999954, 227.08930000000004), (480.53079999999954, 227.08930000000004), (480.53079999999954, 219.58930000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6a0b5688beffab061a4c58ddba7e70ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "aa14cd5a8173df28ee88b572ea4518a2",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "40",
+      "metadata": {
+        "chunk_id": 61,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2657999999996, 219.58930000000004), (544.2657999999996, 227.08930000000004), (552.6057999999995, 227.08930000000004), (552.6057999999995, 219.58930000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6a0b5688beffab061a4c58ddba7e70ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "b74222481a36280b2d0cd582e5cdaf5d",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "10,000",
+      "metadata": {
+        "chunk_id": 62,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.9357999999995, 219.58930000000004), (630.9357999999995, 227.08930000000004), (653.8707999999995, 227.08930000000004), (653.8707999999995, 219.58930000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6a0b5688beffab061a4c58ddba7e70ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c8959022667c7884e9da72c8df5cedc6",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "36",
+      "metadata": {
+        "chunk_id": 63,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.6057999999995, 219.58930000000004), (717.6057999999995, 227.08930000000004), (725.9457999999995, 227.08930000000004), (725.9457999999995, 219.58930000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6a0b5688beffab061a4c58ddba7e70ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c026365004972c47e7cd5e007c4fc8af",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "12,000",
+      "metadata": {
+        "chunk_id": 64,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2757999999994, 219.58930000000004), (804.2757999999994, 227.08930000000004), (827.2107999999994, 227.08930000000004), (827.2107999999994, 219.58930000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6a0b5688beffab061a4c58ddba7e70ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "11a988d1ad8d89efe51191bc9709db00",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "43",
+      "metadata": {
+        "chunk_id": 65,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.9457999999994, 219.58930000000004), (890.9457999999994, 227.08930000000004), (899.2857999999994, 227.08930000000004), (899.2857999999994, 219.58930000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6a0b5688beffab061a4c58ddba7e70ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "5031f2f94cccfb0f349300b0df025274",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Liquefied petroleum gas",
+      "metadata": {
+        "chunk_id": 66,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.60829999999942, 233.98930000000007), (209.60829999999942, 241.48930000000007), (290.46579999999943, 241.48930000000007), (290.46579999999943, 233.98930000000007)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "6db04077b1cc6878d7299452e689bc4e",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "2,000",
+      "metadata": {
+        "chunk_id": 67,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.6107999999994, 233.98930000000007), (457.6107999999994, 241.48930000000007), (476.37579999999946, 241.48930000000007), (476.37579999999946, 233.98930000000007)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6db04077b1cc6878d7299452e689bc4e",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "737afe70891d532a555c59d03bf28b19",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "7",
+      "metadata": {
+        "chunk_id": 68,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2807999999994, 233.98930000000007), (544.2807999999994, 241.48930000000007), (548.4507999999994, 241.48930000000007), (548.4507999999994, 233.98930000000007)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6db04077b1cc6878d7299452e689bc4e",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "5a6d84bb16ae04998f4a161257fff254",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,000",
+      "metadata": {
+        "chunk_id": 69,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.9507999999994, 233.98930000000007), (630.9507999999994, 241.48930000000007), (649.7157999999994, 241.48930000000007), (649.7157999999994, 233.98930000000007)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6db04077b1cc6878d7299452e689bc4e",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "df9a1e1faaa64c955f49fbacf01eb5c0",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "4",
+      "metadata": {
+        "chunk_id": 70,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.6207999999993, 233.98930000000007), (717.6207999999993, 241.48930000000007), (721.7907999999993, 241.48930000000007), (721.7907999999993, 233.98930000000007)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6db04077b1cc6878d7299452e689bc4e",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "330f6fc2add93656858d58379a11f04e",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "–",
+      "metadata": {
+        "chunk_id": 71,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2907999999993, 233.98930000000007), (804.2907999999993, 241.48930000000007), (808.0407999999993, 241.48930000000007), (808.0407999999993, 233.98930000000007)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6db04077b1cc6878d7299452e689bc4e",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "34bcef9a8f2c9563b63f561642be5288",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "–",
+      "metadata": {
+        "chunk_id": 72,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.9607999999993, 233.98930000000007), (890.9607999999993, 241.48930000000007), (894.7107999999993, 241.48930000000007), (894.7107999999993, 233.98930000000007)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6db04077b1cc6878d7299452e689bc4e",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "131f030955098c80560dbece068417e4",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Total nonrenewable fuels",
+      "metadata": {
+        "chunk_id": 73,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.6232999999993, 248.44180000000006), (209.6232999999993, 255.94180000000006), (295.6407999999993, 255.94180000000006), (295.6407999999993, 248.44180000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "c4d298efda89eca9f4a3c9c89a3e0405",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "2,953,000",
+      "metadata": {
+        "chunk_id": 74,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.6257999999993, 248.44180000000006), (457.6257999999993, 255.94180000000006), (490.9857999999993, 255.94180000000006), (490.9857999999993, 248.44180000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "c4d298efda89eca9f4a3c9c89a3e0405",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "e687e49190d2b8b92ca6621527a37836",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "10,631",
+      "metadata": {
+        "chunk_id": 75,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2957999999993, 248.44180000000006), (544.2957999999993, 255.94180000000006), (567.2307999999992, 255.94180000000006), (567.2307999999992, 248.44180000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "c4d298efda89eca9f4a3c9c89a3e0405",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "d4336a86281cd5a857f19b0560457ed2",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,701,000",
+      "metadata": {
+        "chunk_id": 76,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.9657999999993, 248.44180000000006), (630.9657999999993, 255.94180000000006), (664.3257999999993, 255.94180000000006), (664.3257999999993, 248.44180000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "c4d298efda89eca9f4a3c9c89a3e0405",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "1c309071a1e8a7bfca288dced23230e7",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "9,724",
+      "metadata": {
+        "chunk_id": 77,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.6357999999992, 248.44180000000006), (717.6357999999992, 255.94180000000006), (736.4007999999992, 255.94180000000006), (736.4007999999992, 248.44180000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "c4d298efda89eca9f4a3c9c89a3e0405",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "e3c3d731b5f1eec0d2485b12a41ff307",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,412,000",
+      "metadata": {
+        "chunk_id": 78,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.3057999999992, 248.44180000000006), (804.3057999999992, 255.94180000000006), (837.6657999999992, 255.94180000000006), (837.6657999999992, 248.44180000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "c4d298efda89eca9f4a3c9c89a3e0405",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c927202f9eff0f60b8a9a1a96f823621",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "8,683",
+      "metadata": {
+        "chunk_id": 79,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.9757999999991, 248.44180000000006), (890.9757999999991, 255.94180000000006), (909.7407999999991, 255.94180000000006), (909.7407999999991, 248.44180000000006)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "c4d298efda89eca9f4a3c9c89a3e0405",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "4183b0f684ba26f80f93e467c78fccb8",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Sustainable aviation fuel",
+      "metadata": {
+        "chunk_id": 80,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.63829999999916, 262.7893), (209.63829999999916, 270.2893), (291.0357999999992, 270.2893), (291.0357999999992, 262.7893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "cd11a6648c9ad9bfe42840c57d810ce1",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "9,000",
+      "metadata": {
+        "chunk_id": 81,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.64079999999916, 262.7893), (457.64079999999916, 270.2893), (476.4057999999992, 270.2893), (476.4057999999992, 262.7893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cd11a6648c9ad9bfe42840c57d810ce1",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "b87745e661c0f6d52f5d56611f8e6cc9",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "32",
+      "metadata": {
+        "chunk_id": 82,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.3107999999992, 262.7893), (544.3107999999992, 270.2893), (552.6507999999991, 270.2893), (552.6507999999991, 262.7893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cd11a6648c9ad9bfe42840c57d810ce1",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "e74999f0dfd0f8f0049aca82815e091c",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "4,000",
+      "metadata": {
+        "chunk_id": 83,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.9807999999991, 262.7893), (630.9807999999991, 270.2893), (649.7457999999991, 270.2893), (649.7457999999991, 262.7893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cd11a6648c9ad9bfe42840c57d810ce1",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "7a46c0a33d02e95aa1e018c892297524",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "14",
+      "metadata": {
+        "chunk_id": 84,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.6507999999991, 262.7893), (717.6507999999991, 270.2893), (725.9907999999991, 270.2893), (725.9907999999991, 262.7893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cd11a6648c9ad9bfe42840c57d810ce1",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "27e88b5d5e3949e0c04ebafe842332ae",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,000",
+      "metadata": {
+        "chunk_id": 85,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.320799999999, 262.7893), (804.320799999999, 270.2893), (823.085799999999, 270.2893), (823.085799999999, 262.7893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cd11a6648c9ad9bfe42840c57d810ce1",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "75281a6649c231849e083a0a37f0afcf",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "7",
+      "metadata": {
+        "chunk_id": 86,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.990799999999, 262.7893), (890.990799999999, 270.2893), (895.160799999999, 270.2893), (895.160799999999, 262.7893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "cd11a6648c9ad9bfe42840c57d810ce1",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "156209950c18fb294848406e8e1c9c99",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Total renewable fuels",
+      "metadata": {
+        "chunk_id": 87,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.65329999999904, 277.2418), (209.65329999999904, 284.7418), (282.613299999999, 284.7418), (282.613299999999, 277.2418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "9,000",
+      "metadata": {
+        "chunk_id": 88,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.65579999999903, 277.2418), (457.65579999999903, 284.7418), (476.4207999999991, 284.7418), (476.4207999999991, 277.2418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "988b79f37dac8b4297ba1d8ec598b55e",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "32",
+      "metadata": {
+        "chunk_id": 89,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.325799999999, 277.2418), (544.325799999999, 284.7418), (552.665799999999, 284.7418), (552.665799999999, 277.2418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "2cd474481d9535e361475c91f9e8f951",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "4,000",
+      "metadata": {
+        "chunk_id": 90,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.995799999999, 277.2418), (630.995799999999, 284.7418), (649.760799999999, 284.7418), (649.760799999999, 277.2418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "edd93118407880c23986a468dab721f7",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "14",
+      "metadata": {
+        "chunk_id": 91,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.665799999999, 277.2418), (717.665799999999, 284.7418), (726.005799999999, 284.7418), (726.005799999999, 277.2418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "f8b0e89c10f5bd81e98bf83cc155c79a",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,000",
+      "metadata": {
+        "chunk_id": 92,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.3357999999989, 277.2418), (804.3357999999989, 284.7418), (823.1007999999989, 284.7418), (823.1007999999989, 277.2418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "019c0dee6f21e2ed1d4e5e8ac4dc8c41",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "7",
+      "metadata": {
+        "chunk_id": 93,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.0057999999989, 277.2418), (891.0057999999989, 284.7418), (895.1757999999988, 284.7418), (895.1757999999988, 277.2418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "1a4fb6b890af4ae40eb1e45fcc8e0252",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Purchased nonrenewable electricity",
+      "metadata": {
+        "chunk_id": 94,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.6682999999989, 291.5893), (209.6682999999989, 299.0893), (328.8432999999989, 299.0893), (328.8432999999989, 291.5893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "NarrativeText",
+        "id": "d15b406718d3d8eb0bd0c372a87110f2",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "1,350,000",
+      "metadata": {
+        "chunk_id": 95,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.6707999999989, 291.5893), (457.6707999999989, 299.0893), (491.0307999999989, 299.0893), (491.0307999999989, 291.5893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "f5dbb7c6bfb1301fe6c0eea967f648b9",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "4,860",
+      "metadata": {
+        "chunk_id": 96,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.3407999999989, 291.5893), (544.3407999999989, 299.0893), (563.1057999999989, 299.0893), (563.1057999999989, 291.5893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "9090df012d8e501a8e33b4e0a6867989",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,482,000",
+      "metadata": {
+        "chunk_id": 97,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.0107999999989, 291.5893), (631.0107999999989, 299.0893), (664.3707999999989, 299.0893), (664.3707999999989, 291.5893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "ef11a59082fb0e3a22dd6d29267b0ce9",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "5,335",
+      "metadata": {
+        "chunk_id": 98,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.6807999999988, 291.5893), (717.6807999999988, 299.0893), (736.4457999999988, 299.0893), (736.4457999999988, 291.5893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "1a0c4c92e85ca3598c9c35208965e833",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,686,000",
+      "metadata": {
+        "chunk_id": 99,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.3507999999988, 291.5893), (804.3507999999988, 299.0893), (837.7107999999988, 299.0893), (837.7107999999988, 291.5893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "4e03ed13ad49b988b0d19d78a311650d",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "6,070",
+      "metadata": {
+        "chunk_id": 100,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.0207999999988, 291.5893), (891.0207999999988, 299.0893), (909.7857999999987, 299.0893), (909.7857999999987, 291.5893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c99cf9a3a0cfa27c3d006731a3e2a8ce",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Purchased renewable electricity2",
+      "metadata": {
+        "chunk_id": 101,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.68329999999878, 305.950015), (209.68329999999878, 313.48929999999996), (318.47911, 313.48929999999996), (318.47911, 305.950015)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "NarrativeText",
+        "id": "1ed21917464fcb78f2fcf3f5a551a52b",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "720,000",
+      "metadata": {
+        "chunk_id": 102,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.5208, 305.9893), (457.5208, 313.4893), (484.6258, 313.4893), (484.6258, 305.9893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "363c66cfe93d19f87d19ae71969ecd44",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,592",
+      "metadata": {
+        "chunk_id": 103,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.1908, 305.9893), (544.1908, 313.4893), (562.9558, 313.4893), (562.9558, 305.9893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "36c7f92769b440a88f497234401830bc",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "574,000",
+      "metadata": {
+        "chunk_id": 104,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.8607999999999, 305.9893), (630.8607999999999, 313.4893), (657.9657999999998, 313.4893), (657.9657999999998, 305.9893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "bb075d2fdec8b690293363282168858d",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,066",
+      "metadata": {
+        "chunk_id": 105,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.5307999999999, 305.9893), (717.5307999999999, 313.4893), (736.2957999999999, 313.4893), (736.2957999999999, 305.9893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "ba713aa960d61282bd24285daee00152",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "392,000",
+      "metadata": {
+        "chunk_id": 106,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2007999999998, 305.9893), (804.2007999999998, 313.4893), (831.3057999999997, 313.4893), (831.3057999999997, 305.9893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "870cda6ab96c4966f404c269b97cc81f",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,411",
+      "metadata": {
+        "chunk_id": 107,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.8707999999998, 305.9893), (890.8707999999998, 313.4893), (909.6357999999998, 313.4893), (909.6357999999998, 305.9893)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "e0f114eda01c044ac9aba3145be44852",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Total purchased electricity",
+      "metadata": {
+        "chunk_id": 108,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.53329999999983, 320.4418), (209.53329999999983, 327.9418), (300.55329999999987, 327.9418), (300.55329999999987, 320.4418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "NarrativeText",
+        "id": "3b4c9973068dd4e2c4220896bb1cb7cb",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "2,070,000",
+      "metadata": {
+        "chunk_id": 109,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.5357999999998, 320.4418), (457.5357999999998, 327.9418), (490.89579999999984, 327.9418), (490.89579999999984, 320.4418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "50033b0a41f77b0b8ae488982ea45207",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "7,452",
+      "metadata": {
+        "chunk_id": 110,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2057999999998, 320.4418), (544.2057999999998, 327.9418), (562.9707999999998, 327.9418), (562.9707999999998, 320.4418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "f065373c00c30def04dcedf471016498",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,056,000",
+      "metadata": {
+        "chunk_id": 111,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.8757999999998, 320.4418), (630.8757999999998, 327.9418), (664.2357999999998, 327.9418), (664.2357999999998, 320.4418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "7e2027de19e06ab68ef8884f3e492c21",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "7,402",
+      "metadata": {
+        "chunk_id": 112,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.5457999999998, 320.4418), (717.5457999999998, 327.9418), (736.3107999999997, 327.9418), (736.3107999999997, 320.4418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "2f3ee0018a7a35e4a847a21b358225a6",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "2,078,000",
+      "metadata": {
+        "chunk_id": 113,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2157999999997, 320.4418), (804.2157999999997, 327.9418), (837.5757999999997, 327.9418), (837.5757999999997, 320.4418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "b7ab839a87139f295106ee389140acd8",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "7,481",
+      "metadata": {
+        "chunk_id": 114,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.8857999999997, 320.4418), (890.8857999999997, 327.9418), (909.6507999999997, 327.9418), (909.6507999999997, 320.4418)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "5f42e892aa7681ef76e2dcd4a5255e69",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "db025939652aea8ab25a04498d1a9291",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Total energy use",
+      "metadata": {
+        "chunk_id": 115,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.5482999999997, 334.7143), (209.5482999999997, 342.2143), (266.24829999999974, 342.2143), (266.24829999999974, 334.7143)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "3f16f1187b0943c2c342a66f1b1496ae",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "5,033,000",
+      "metadata": {
+        "chunk_id": 116,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.5507999999997, 334.7143), (457.5507999999997, 342.2143), (490.9107999999997, 342.2143), (490.9107999999997, 334.7143)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "3f16f1187b0943c2c342a66f1b1496ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "9096f769886860cf51277b893146be49",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "18,119",
+      "metadata": {
+        "chunk_id": 117,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.2207999999997, 334.7143), (544.2207999999997, 342.2143), (567.1557999999997, 342.2143), (567.1557999999997, 334.7143)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "3f16f1187b0943c2c342a66f1b1496ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "3dc82e450db2695312dc017b8a3df493",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "4,761,000",
+      "metadata": {
+        "chunk_id": 118,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((630.8907999999997, 334.7143), (630.8907999999997, 342.2143), (664.2507999999997, 342.2143), (664.2507999999997, 334.7143)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "3f16f1187b0943c2c342a66f1b1496ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "a5b993f19951ac40a163d9d4685547a6",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "17,410",
+      "metadata": {
+        "chunk_id": 119,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.5607999999996, 334.7143), (717.5607999999996, 342.2143), (740.4957999999997, 342.2143), (740.4957999999997, 334.7143)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "3f16f1187b0943c2c342a66f1b1496ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "9d19a1a42ffa51fb72f17bd934fc9d57",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "4,492,000",
+      "metadata": {
+        "chunk_id": 120,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.2307999999996, 334.7143), (804.2307999999996, 342.2143), (837.5907999999996, 342.2143), (837.5907999999996, 334.7143)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "3f16f1187b0943c2c342a66f1b1496ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "03cbca39ce2ad407a07686bfe6cb48c8",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "16,171",
+      "metadata": {
+        "chunk_id": 121,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((890.9007999999995, 334.7143), (890.9007999999995, 342.2143), (913.8357999999996, 342.2143), (913.8357999999996, 334.7143)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "3f16f1187b0943c2c342a66f1b1496ae",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "073d408b2e95237007235057d46e17b1",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1. Data represents 100% of the company. 2. Renewable electricity data excludes any renewable energy that is part of the grid by default, in alignment with SASB and other frameworks. Notably, Boeing operates in a number of grids that rely significantly on renewable sources. • Boeing did not sell any electricity, heating or cooling energy.",
+      "metadata": {
+        "chunk_id": 122,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 55,
+        "coordinates": "CoordinatesMetadata(points=((203.76, 350.5559), (203.76, 372.9979), (902.4230000000008, 372.9979), (902.4230000000008, 350.5559)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "3f16f1187b0943c2c342a66f1b1496ae",
+        "filetype": "application/pdf",
+        "element_type": "ListItem",
+        "id": "db59696841cae2e6a6c1054a69a05f80",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "Emissions1",
+      "metadata": {
+        "chunk_id": 123,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((209.7576, 384.5944225), (209.7576, 392.15560000000005), (247.48331, 392.15560000000005), (247.48331, 384.5944225)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "6615f4a11f47512a138873ce2dfba85f",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Tons CO2e",
+      "metadata": {
+        "chunk_id": 124,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((457.7584, 384.65560000000005), (457.7584, 393.9619225), (493.8191, 393.9619225), (493.8191, 384.65560000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "45fbd7c1f12ccef7591537d2866aaf6c",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Metric tons CO2e",
+      "metadata": {
+        "chunk_id": 125,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((544.4216, 384.65560000000005), (544.4216, 393.9619225), (603.4058, 393.9619225), (603.4058, 384.65560000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "7d5adb2ab94d6245f9dc4bde6214a03d",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Tons CO2e",
+      "metadata": {
+        "chunk_id": 126,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((631.0958, 384.65560000000005), (631.0958, 393.9619225), (667.1529999999999, 393.9619225), (667.1529999999999, 384.65560000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "e91fd072d8eaeb202eb821dd372a284f",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Metric tons CO2e",
+      "metadata": {
+        "chunk_id": 127,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((717.7555, 384.65560000000005), (717.7555, 393.9619225), (776.7396, 393.9619225), (776.7396, 384.65560000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "5af8731081d531b7b143402da3ed1646",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Tons CO2e",
+      "metadata": {
+        "chunk_id": 128,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((804.4296, 384.65560000000005), (804.4296, 393.9619225), (840.4867999999999, 393.9619225), (840.4867999999999, 384.65560000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "89665b0f32046e54da9350b3216522f1",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Metric tons CO2e",
+      "metadata": {
+        "chunk_id": 129,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((891.0893, 384.65560000000005), (891.0893, 393.9619225), (950.0735, 393.9619225), (950.0735, 384.65560000000005)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "d7855b109c55f4373615ba633818d655",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "Scope 1 GHG2,3",
+      "metadata": {
+        "chunk_id": 130,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "coordinates": "CoordinatesMetadata(points=((209.756, 400.263815), (209.756, 407.80060000000003), (262.64217499999995, 407.80060000000003), (262.64217499999995, 400.263815)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "b7d8389e9352c73fa31d5244d1dd0aea",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "708,000",
+      "metadata": {
+        "chunk_id": 131,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7584, 400.3031), (457.7584, 407.8031), (484.8634, 407.8031), (484.8634, 400.3031)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "b7d8389e9352c73fa31d5244d1dd0aea",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "066a34eb6baccdd0ab4e70d78f301497",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "642,000",
+      "metadata": {
+        "chunk_id": 132,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4284, 400.3031), (544.4284, 407.8031), (571.5334, 407.8031), (571.5334, 400.3031)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "b7d8389e9352c73fa31d5244d1dd0aea",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c5ad908d441806732479f8412d49d967",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "675,000",
+      "metadata": {
+        "chunk_id": 133,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.0984, 400.3031), (631.0984, 407.8031), (660.2884, 407.8031), (660.2884, 400.3031)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "b7d8389e9352c73fa31d5244d1dd0aea",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c1e1f65bcd2cc3a3c7e7d81d9ba1b36e",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "612,000",
+      "metadata": {
+        "chunk_id": 134,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7683999999999, 400.3031), (717.7683999999999, 407.8031), (744.8734, 407.8031), (744.8734, 400.3031)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "b7d8389e9352c73fa31d5244d1dd0aea",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "79fa54cda343578876e3bbdb02507f5b",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "611,000",
+      "metadata": {
+        "chunk_id": 135,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4384, 400.3031), (804.4384, 407.8031), (833.6284, 407.8031), (833.6284, 400.3031)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "b7d8389e9352c73fa31d5244d1dd0aea",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "ad035ef805716fdf01e5283a1567fe74",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "554,000",
+      "metadata": {
+        "chunk_id": 136,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1084, 400.3031), (891.1084, 407.8031), (920.2984000000001, 407.8031), (920.2984000000001, 400.3031)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "b7d8389e9352c73fa31d5244d1dd0aea",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "1cf84edcb226a7d252477bfefa745da6",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Scope 2 GHG — location-based2,3",
+      "metadata": {
+        "chunk_id": 137,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 5,
+        "coordinates": "CoordinatesMetadata(points=((209.77089999999998, 414.601315), (209.77089999999998, 422.1431), (324.45597499999997, 422.1431), (324.45597499999997, 414.601315)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "1987a309cbe7f96768bf159c5d3764ac",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "859,000",
+      "metadata": {
+        "chunk_id": 138,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7584, 414.64059999999995), (457.7584, 422.14059999999995), (484.8634, 422.14059999999995), (484.8634, 414.64059999999995)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "1987a309cbe7f96768bf159c5d3764ac",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "e793e8d99d3f0cdf3819da990019bae9",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "779,000",
+      "metadata": {
+        "chunk_id": 139,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4284, 414.64059999999995), (544.4284, 422.14059999999995), (571.5334, 422.14059999999995), (571.5334, 414.64059999999995)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "1987a309cbe7f96768bf159c5d3764ac",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "47ba4db4016eb9ec5f9cacae597b8e53",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "830,000",
+      "metadata": {
+        "chunk_id": 140,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.0984, 414.64059999999995), (631.0984, 422.14059999999995), (658.2034, 422.14059999999995), (658.2034, 414.64059999999995)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "1987a309cbe7f96768bf159c5d3764ac",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "b1e9bc9d37dfd44fb48e814e45f69ed4",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "753,000",
+      "metadata": {
+        "chunk_id": 141,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7683999999999, 414.64059999999995), (717.7683999999999, 422.14059999999995), (744.8734, 422.14059999999995), (744.8734, 414.64059999999995)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "1987a309cbe7f96768bf159c5d3764ac",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "35f15d95087816fcf453dce2c0be0fb3",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "840,000",
+      "metadata": {
+        "chunk_id": 142,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4384, 414.64059999999995), (804.4384, 422.14059999999995), (831.5433999999999, 422.14059999999995), (831.5433999999999, 414.64059999999995)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "1987a309cbe7f96768bf159c5d3764ac",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "63a3a558027fb2b5de36ec39cf42c7a0",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "762,000",
+      "metadata": {
+        "chunk_id": 143,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1084, 414.64059999999995), (891.1084, 422.14059999999995), (918.2134, 422.14059999999995), (918.2134, 414.64059999999995)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "1987a309cbe7f96768bf159c5d3764ac",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "7e3550377a54795230056fabbefa5581",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Scope 2 GHG — market-based2,3",
+      "metadata": {
+        "chunk_id": 144,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 5,
+        "coordinates": "CoordinatesMetadata(points=((209.77089999999998, 429.00131500000003), (209.77089999999998, 436.5405999999999), (321.13377499999996, 436.5405999999999), (321.13377499999996, 429.00131500000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "91579039ad6d8ac2299f9c3adb38ed60",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "442,000",
+      "metadata": {
+        "chunk_id": 145,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7584, 429.04060000000004), (457.7584, 436.54060000000004), (484.8634, 436.54060000000004), (484.8634, 429.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "91579039ad6d8ac2299f9c3adb38ed60",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "89c335772274d6ff9607c9ab0a66b21b",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "401,000",
+      "metadata": {
+        "chunk_id": 146,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4284, 429.04060000000004), (544.4284, 436.54060000000004), (571.5334, 436.54060000000004), (571.5334, 429.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "91579039ad6d8ac2299f9c3adb38ed60",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c48a0c2edf255f78c698f7b8b1355b7a",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "493,000",
+      "metadata": {
+        "chunk_id": 147,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.0984, 429.04060000000004), (631.0984, 436.54060000000004), (658.2034, 436.54060000000004), (658.2034, 429.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "91579039ad6d8ac2299f9c3adb38ed60",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "a972f7c15293f18e45fd296e8346db43",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "447,000",
+      "metadata": {
+        "chunk_id": 148,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7683999999999, 429.04060000000004), (717.7683999999999, 436.54060000000004), (744.8734, 436.54060000000004), (744.8734, 429.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "91579039ad6d8ac2299f9c3adb38ed60",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "0e76db53969c9fea3f62baf7c0ff650a",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "580,000",
+      "metadata": {
+        "chunk_id": 149,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4384, 429.04060000000004), (804.4384, 436.54060000000004), (831.5433999999999, 436.54060000000004), (831.5433999999999, 429.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "91579039ad6d8ac2299f9c3adb38ed60",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "936515a62a0a2dc6d1fae7c4f81b6079",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "526,000",
+      "metadata": {
+        "chunk_id": 150,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1084, 429.04060000000004), (891.1084, 436.54060000000004), (918.2134, 436.54060000000004), (918.2134, 429.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "91579039ad6d8ac2299f9c3adb38ed60",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "f2a80b636510ee09c1bd4a8f7634d436",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Scope 3 GHG — business travel",
+      "metadata": {
+        "chunk_id": 151,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6,
+        "coordinates": "CoordinatesMetadata(points=((209.77089999999998, 443.4406), (209.77089999999998, 450.9406), (318.39340000000004, 450.9406), (318.39340000000004, 443.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "6792de40697af2b780c1009db49f1c1d",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "205,000",
+      "metadata": {
+        "chunk_id": 152,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7734, 443.4406), (457.7734, 450.9406), (484.8784, 450.9406), (484.8784, 443.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "35437431371ab6a1d2b48cebb7260ca7",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "186,000",
+      "metadata": {
+        "chunk_id": 153,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4434, 443.4406), (544.4434, 450.9406), (571.5484, 450.9406), (571.5484, 443.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "f49cd961b1761cafeac4a644a49dc0be",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "97,000",
+      "metadata": {
+        "chunk_id": 154,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.1134, 443.4406), (631.1134, 450.9406), (654.0483999999999, 450.9406), (654.0483999999999, 443.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "0a8ea69ee2d9430b6650458291693d13",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "88,000",
+      "metadata": {
+        "chunk_id": 155,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7833999999999, 443.4406), (717.7833999999999, 450.9406), (740.7183999999999, 450.9406), (740.7183999999999, 443.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "8a8266bbf6fdb1c9392c4d4017b841a6",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "101,000",
+      "metadata": {
+        "chunk_id": 156,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4533999999999, 443.4406), (804.4533999999999, 450.9406), (831.5583999999998, 450.9406), (831.5583999999998, 443.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "1588aab6df0bdfd1b712b61458298402",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "92,000",
+      "metadata": {
+        "chunk_id": 157,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1233999999998, 443.4406), (891.1233999999998, 450.9406), (914.0583999999999, 450.9406), (914.0583999999999, 443.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "4fb5a6403e7ede0cc13c41931b28dab2",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Scope 3 GHG — use of sold products (Commercial Airplanes)3,6",
+      "metadata": {
+        "chunk_id": 158,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 10,
+        "coordinates": "CoordinatesMetadata(points=((209.78589999999986, 457.801315), (209.78589999999986, 465.3406), (422.531975, 465.3406), (422.531975, 457.801315)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "NarrativeText",
+        "id": "bd0b5cd891885e8d3a0587fc74b42aa3",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "400,000,000",
+      "metadata": {
+        "chunk_id": 159,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7584, 457.8406), (457.7584, 465.3406), (499.45840000000004, 465.3406), (499.45840000000004, 457.8406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "947aabb35ecdbdb450d2b682f97fe8c7",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "363,000,000",
+      "metadata": {
+        "chunk_id": 160,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4284, 457.8406), (544.4284, 465.3406), (586.1283999999999, 465.3406), (586.1283999999999, 457.8406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "1ad1ea1c2af973ab2477493e997d5485",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "306,000,000",
+      "metadata": {
+        "chunk_id": 161,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.0984, 457.8406), (631.0984, 465.3406), (672.7983999999999, 465.3406), (672.7983999999999, 457.8406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "f381c9931b9192f59967ecfc8d27b8c9",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "278,000,000",
+      "metadata": {
+        "chunk_id": 162,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7683999999999, 457.8406), (717.7683999999999, 465.3406), (759.4684, 465.3406), (759.4684, 457.8406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "aa4a3b8cd8bd25a291f5107268f2f120",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "246,000,000",
+      "metadata": {
+        "chunk_id": 163,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4384, 457.8406), (804.4384, 465.3406), (846.1383999999999, 465.3406), (846.1383999999999, 457.8406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "3a067410e644a8b3cfc656f892f729ed",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "223,000,000",
+      "metadata": {
+        "chunk_id": 164,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1084, 457.8406), (891.1084, 465.3406), (932.8084, 465.3406), (932.8084, 457.8406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "6792de40697af2b780c1009db49f1c1d",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "a3886b22091e64a098c1b04a2bad0012",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Scope 3 GHG — use of sold products (Defense, Space & Security)3,6",
+      "metadata": {
+        "chunk_id": 165,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 12,
+        "coordinates": "CoordinatesMetadata(points=((209.77089999999998, 472.201315), (209.77089999999998, 479.7406), (438.364375, 479.7406), (438.364375, 472.201315)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "24,000,000",
+      "metadata": {
+        "chunk_id": 166,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7584, 472.2406), (457.7584, 479.7406), (495.2884, 479.7406), (495.2884, 472.2406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "90bdc3e304509b08609d6beea36da23f",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "22,000,000",
+      "metadata": {
+        "chunk_id": 167,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4284, 472.2406), (544.4284, 479.7406), (581.9584, 479.7406), (581.9584, 472.2406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "9ad836403486ec7f12aedc28ee502ae1",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "24,000,000",
+      "metadata": {
+        "chunk_id": 168,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.0984, 472.2406), (631.0984, 479.7406), (668.6283999999999, 479.7406), (668.6283999999999, 472.2406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "00b247b42ffaa0a037832b8a5e46e6c7",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "22,000,000",
+      "metadata": {
+        "chunk_id": 169,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7683999999999, 472.2406), (717.7683999999999, 479.7406), (755.2984, 479.7406), (755.2984, 472.2406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "cbfeb5f0fd131daf5756f7a299150bc6",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "22,000,000",
+      "metadata": {
+        "chunk_id": 170,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4384, 472.2406), (804.4384, 479.7406), (841.9684, 479.7406), (841.9684, 472.2406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "86b018505e274063e0036a1b25dd9b81",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "20,000,000",
+      "metadata": {
+        "chunk_id": 171,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1084, 472.2406), (891.1084, 479.7406), (928.6383999999999, 479.7406), (928.6383999999999, 472.2406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "a7b817c9aef38609da72ab4359be0346",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Total calculated GHG excluding sold products",
+      "metadata": {
+        "chunk_id": 172,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6,
+        "coordinates": "CoordinatesMetadata(points=((209.77089999999998, 486.69309999999996), (209.77089999999998, 494.19309999999996), (368.71840000000003, 494.19309999999996), (368.71840000000003, 486.69309999999996)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "NarrativeText",
+        "id": "eb11f63b6c32d3e609d23261fcf7a837",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "1,355,000",
+      "metadata": {
+        "chunk_id": 173,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7734, 486.69309999999996), (457.7734, 494.19309999999996), (491.1334, 494.19309999999996), (491.1334, 486.69309999999996)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "8c5d6f63f3a8dc565ba2ec9f6ef58820",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,229,000",
+      "metadata": {
+        "chunk_id": 174,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4434, 486.69309999999996), (544.4434, 494.19309999999996), (577.8034, 494.19309999999996), (577.8034, 486.69309999999996)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "cc7344a3bdcbc2606b32c69c3dc1ae61",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,264,000",
+      "metadata": {
+        "chunk_id": 175,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.1134, 486.69309999999996), (631.1134, 494.19309999999996), (666.5584, 494.19309999999996), (666.5584, 486.69309999999996)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c51cc047af92413846f1b26f017b54b1",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,147,000",
+      "metadata": {
+        "chunk_id": 176,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7834, 486.69309999999996), (717.7834, 494.19309999999996), (753.2284000000001, 494.19309999999996), (753.2284000000001, 486.69309999999996)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "40828101a55b39afb3b0963e1e600dbe",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,292,000",
+      "metadata": {
+        "chunk_id": 177,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4534, 486.69309999999996), (804.4534, 494.19309999999996), (839.8984, 494.19309999999996), (839.8984, 486.69309999999996)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "50deb591cfdd286c324be71c012b4795",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1,172,000",
+      "metadata": {
+        "chunk_id": 178,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1234, 486.69309999999996), (891.1234, 494.19309999999996), (924.4834, 494.19309999999996), (924.4834, 486.69309999999996)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "b9a0925813ef286d72b6048f93e1e90b",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Core metrics sites GHG — location-based4",
+      "metadata": {
+        "chunk_id": 179,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6,
+        "coordinates": "CoordinatesMetadata(points=((209.78589999999997, 501.00131500000003), (209.78589999999997, 508.5406), (353.44861, 508.5406), (353.44861, 501.00131500000003)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "NarrativeText",
+        "id": "02a6d90ff5456b12c4d9c5855ca6ff53",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "724,000",
+      "metadata": {
+        "chunk_id": 180,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7584, 501.04060000000004), (457.7584, 508.54060000000004), (484.8634, 508.54060000000004), (484.8634, 501.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "a9fe9fcddc33798192748a958839d208",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "657,000",
+      "metadata": {
+        "chunk_id": 181,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4284, 501.04060000000004), (544.4284, 508.54060000000004), (571.5334, 508.54060000000004), (571.5334, 501.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "56fb649bd202948ac613cb7620046986",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "702,000",
+      "metadata": {
+        "chunk_id": 182,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.0984, 501.04060000000004), (631.0984, 508.54060000000004), (658.2034, 508.54060000000004), (658.2034, 501.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "e8565ca097af7954273f9a4194ff4196",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "637,000",
+      "metadata": {
+        "chunk_id": 183,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7683999999999, 501.04060000000004), (717.7683999999999, 508.54060000000004), (744.8734, 508.54060000000004), (744.8734, 501.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "4924c1d09b724c12d3f91108968f80de",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "713,000",
+      "metadata": {
+        "chunk_id": 184,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4384, 501.04060000000004), (804.4384, 508.54060000000004), (831.5433999999999, 508.54060000000004), (831.5433999999999, 501.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "45546575bb6970f9ba5c92b07de45886",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "647,000",
+      "metadata": {
+        "chunk_id": 185,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1084, 501.04060000000004), (891.1084, 508.54060000000004), (918.2134, 508.54060000000004), (918.2134, 501.04060000000004)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "3ab4c344dd76b61539a4d0da99fd9271",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "Core metrics sites GHG — market-based4",
+      "metadata": {
+        "chunk_id": 186,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6,
+        "coordinates": "CoordinatesMetadata(points=((209.77089999999998, 515.4013150000001), (209.77089999999998, 522.9406), (350.12640999999996, 522.9406), (350.12640999999996, 515.4013150000001)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "NarrativeText",
+        "id": "c642c54a95f4f3bf5a508330426899d9",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "323,000",
+      "metadata": {
+        "chunk_id": 187,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((457.7584, 515.4406), (457.7584, 522.9406), (484.8634, 522.9406), (484.8634, 515.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "0f7de55c60f0a4cd6f1522bca9d22b24",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "293,000",
+      "metadata": {
+        "chunk_id": 188,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((544.4284, 515.4406), (544.4284, 522.9406), (571.5334, 522.9406), (571.5334, 515.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "f77ca6031940a1203c2a2937c08f8b1b",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "376,000",
+      "metadata": {
+        "chunk_id": 189,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((631.0984, 515.4406), (631.0984, 522.9406), (658.2034, 522.9406), (658.2034, 515.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "8d95c70e6662ef933a488a82bdc88a13",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "341,000",
+      "metadata": {
+        "chunk_id": 190,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((717.7683999999999, 515.4406), (717.7683999999999, 522.9406), (744.8734, 522.9406), (744.8734, 515.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "63cfa7ffd8ff164856354852d970139a",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "452,000",
+      "metadata": {
+        "chunk_id": 191,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((804.4384, 515.4406), (804.4384, 522.9406), (833.6284, 522.9406), (833.6284, 515.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "c975014170537e206aa537a957e084f9",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "410,000",
+      "metadata": {
+        "chunk_id": 192,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((891.1084, 515.4406), (891.1084, 522.9406), (918.2134, 522.9406), (918.2134, 515.4406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "36856efd4e1ed821934d4fb3bf9e0ee5",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "a21cd23060cc74311b6900dab78873b8",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "GHG Intensity5",
+      "metadata": {
+        "chunk_id": 193,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((209.77089999999998, 529.676315), (209.77089999999998, 537.2131), (259.27290999999997, 537.2131), (259.27290999999997, 529.676315)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "filetype": "application/pdf",
+        "element_type": "Title",
+        "id": "e06460c6053d315e12f916593f9fd358",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "$0.00002",
+      "metadata": {
+        "chunk_id": 194,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((525.7828, 529.7156), (525.7828, 537.2156), (557.0577999999999, 537.2156), (557.0577999999999, 529.7156)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "e06460c6053d315e12f916593f9fd358",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "2196e814bda0762061e275660e128d9b",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "$0.00002",
+      "metadata": {
+        "chunk_id": 195,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((699.1152999999999, 529.7156), (699.1152999999999, 537.2156), (730.3902999999999, 537.2156), (730.3902999999999, 529.7156)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "e06460c6053d315e12f916593f9fd358",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "8c74baadedd6c0c8b6d726bbb35ad208",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "$0.00002",
+      "metadata": {
+        "chunk_id": 196,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((872.5753, 529.7156), (872.5753, 537.2156), (903.8503, 537.2156), (903.8503, 529.7156)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b92f0d90>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "e06460c6053d315e12f916593f9fd358",
+        "filetype": "application/pdf",
+        "element_type": "Text",
+        "id": "1e8bbd230e451aa1c011dd4a5d15ea5d",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "1. Emissions (Enterprise Scope 1, Scope 2, and Scope 3 Categories 6 and 11) data is verified by an accredited independent third party to the level of limited assurance, see assurance statements. 2. Scope 1 and Scope 2 data represents 100% of the company. 3. For Scopes 1, 2 and 3, we calculate emissions from CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3 for this data set. 4. Core metrics sites data represents emissions of CO2, CH4 and N2O where we track a subset of emissions from natural gas combustion and purchased electricity associated with sites that represent the majority (70%) of Boeing operations. 5. GHG intensity includes Scope 1 and Scope 2 (market-based) GHG (CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3). 6. Use of sold products emissions are based on estimated lifetime emissions of Boeing Commercial Airplanes and Boeing Defense Services product deliveries in 2022, including direct emissions from combustion of fuel (335M tonnes) and indirect emissions from production of fuel (50M tonnes).",
+      "metadata": {
+        "chunk_id": 197,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 165,
+        "coordinates": "CoordinatesMetadata(points=((204.4769, 543.8159), (204.4769, 600.0179), (972.6849000000009, 600.0179), (972.6849000000009, 543.8159)), system=<unstructured.documents.coordinates.PixelSpace object at 0x78b7b617c250>)",
+        "file_directory": "temp",
+        "filename": "074.pdf",
+        "languages": [
+          "eng"
+        ],
+        "last_modified": "2025-03-10T20:50:25",
+        "links": [],
+        "parent_id": "e06460c6053d315e12f916593f9fd358",
+        "filetype": "application/pdf",
+        "element_type": "ListItem",
+        "id": "c9b587005c46de8bbc9313d4a7580ba4",
+        "category": "ListItem"
+      }
+    }
+  ]
+}
